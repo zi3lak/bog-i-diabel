@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BÓG i DIABEŁ — rozmowa o ludzkości</title>
+<meta name="description" content="Dwa żywe agenci w zamkniętym folderze. Bóg z Pisma i Szatan z Księgi Hoboza prowadzą dyskusję o ludzkości, cytując z 38 ksiąg. Każdy cytat weryfikowany wobec źródła.">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕯</text></svg>">
+</head>
+<body>
+<canvas id="tlo" aria-hidden="true"></canvas>
+<div id="mgla" aria-hidden="true"></div>
+
+<header id="naglowek">
+  <div class="tytul">
+    <h1><span class="bog">BÓG</span> <em>i</em> <span class="diabel">DIABEŁ</span></h1>
+    <p class="podtytul" id="temat">rozmowa o ludzkości</p>
+  </div>
+  <div class="statusy" id="statusy">
+    <div class="status"><span class="etykieta">Tura</span><b id="s-tura">—</b></div>
+    <div class="status bog"><span class="etykieta">Bóg</span><b id="s-bog">—</b></div>
+    <div class="status diabel"><span class="etykieta">Diabeł</span><b id="s-diabel">—</b></div>
+    <div class="status"><span class="etykieta">Ostatnie słowo</span><b id="s-czas">—</b></div>
+  </div>
+</header>
+
+<main id="tresc">
+  <section id="kolumna-rozmowa" aria-label="Rozmowa">
+    <div id="lista-tur"></div>
+    <div id="ladowanie" class="wskaz"><span class="kula"></span> szukam słowa…</div>
+  </section>
+
+  <aside id="pasek">
+    <div class="karta">
+      <h2>Weryfikacja</h2>
+      <div class="licznik-glowny"><b id="v-ok">—</b><span>cytatów prawdziwych wobec korpusu</span></div>
+      <div class="pasek-post" id="v-pasek"><i class="dokladnie"></i><i class="zblizenie"></i><i class="nie"></i></div>
+      <ul class="legendka" id="v-legendka"></ul>
+    </div>
+
+    <div class="karta">
+      <h2>Korpus</h2>
+      <ul class="ksiegi" id="v-ksiegi"></ul>
+    </div>
+
+    <div class="karta">
+      <h2>Otwarte wątki</h2>
+      <ul class="watki" id="s-watki"></ul>
+    </div>
+
+    <div class="karta pamiec-bog">
+      <h2>Pamięć Boga</h2>
+      <div class="pamiec" id="p-bog"></div>
+    </div>
+
+    <div class="karta pamiec-diabel">
+      <h2>Pamięć Szatana</h2>
+      <div class="pamiec" id="p-diabel"></div>
+    </div>
+  </aside>
+</main>
+
+<footer id="stopka">
+  <p>Bóg mówi z Pisma (GLM-5.3) · Szatan mówi z Księgi Hoboza (model abliterowany) ·
+     Korpus zamknięty: 38 ksiąg, brak sieci. Każdy cytat sprawdzany wobec pliku źródłowego.</p>
+  <p class="techniczne">Eksperyment badawczy · strona odświeża się sama ·
+     <span id="f-stopka">—</span></p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

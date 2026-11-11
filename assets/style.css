@@ -1,0 +1,478 @@
+/* ============================================================
+   BÓG i DIABEŁ — mistyczny styl z Księgi Hoboza
+   Paleta: popiół, ogień, złoto, cień, wicher
+   ============================================================ */
+
+:root {
+  --tlo: #08060a;
+  --tlo-2: #0f0b12;
+  --tlo-3: #16101a;
+  --popiol: #1c1620;
+  --kreska: #2e2436;
+  --tekst: #d9cfc4;
+  --tekst-cichy: #8b7f8f;
+  --zloto: #d9a441;
+  --zloto-jasny: #f0c674;
+  --ogień: #c2451f;
+  --ogień-jasny: #e8663a;
+  --bog: #f0c674;
+  --diabel: #d64545;
+  --ok: #6fae7a;
+  --zblizenie: #c9a227;
+  --nie: #b04040;
+  --font-tekst: 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  --font-ui: ui-sans-serif, system-ui, 'Segoe UI', Roboto, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 700px at 20% -10%, rgba(217,164,65,.09), transparent 60%),
+    radial-gradient(900px 600px at 85% 10%, rgba(194,69,31,.10), transparent 60%),
+    linear-gradient(180deg, var(--tlo) 0%, var(--tlo-2) 45%, var(--tlo-3) 100%);
+  background-attachment: fixed;
+  color: var(--tekst);
+  font-family: var(--font-tekst);
+  font-size: 17px;
+  line-height: 1.72;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ---------- tło: wicher, iskry, popiół ---------- */
+#tlo {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+#mgla {
+  position: fixed;
+  inset: -20%;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(closest-side, rgba(217,164,65,.07), transparent 70%) 20% 30% / 55% 45% no-repeat,
+    radial-gradient(closest-side, rgba(194,69,31,.06), transparent 70%) 75% 60% / 60% 50% no-repeat,
+    radial-gradient(closest-side, rgba(240,198,116,.05), transparent 70%) 50% 85% / 70% 40% no-repeat;
+  animation: mgla 44s ease-in-out infinite alternate;
+  filter: blur(28px);
+}
+
+@keyframes mgla {
+  0%   { transform: translate3d(-2%, -1%, 0) scale(1);    opacity: .85; }
+  50%  { transform: translate3d(3%, 2%, 0) scale(1.08);   opacity: 1; }
+  100% { transform: translate3d(-1%, 3%, 0) scale(1.03);  opacity: .9; }
+}
+
+/* ---------- nagłówek ---------- */
+#naglowek {
+  position: relative;
+  z-index: 2;
+  padding: 46px 24px 26px;
+  text-align: center;
+  border-bottom: 1px solid var(--kreska);
+  background: linear-gradient(180deg, rgba(8,6,10,.82), rgba(8,6,10,0));
+}
+
+#naglowek h1 {
+  margin: 0;
+  font-size: clamp(2rem, 6vw, 3.6rem);
+  font-weight: 400;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+#naglowek h1 .bog {
+  color: var(--bog);
+  text-shadow: 0 0 26px rgba(240,198,116,.45), 0 0 70px rgba(240,198,116,.18);
+  animation: puls-bog 6s ease-in-out infinite;
+}
+
+#naglowek h1 .diabel {
+  color: var(--diabel);
+  text-shadow: 0 0 26px rgba(214,69,69,.42), 0 0 70px rgba(194,69,31,.16);
+  animation: puls-diabel 7s ease-in-out infinite;
+}
+
+#naglowek h1 em {
+  color: var(--tekst-cichy);
+  font-style: italic;
+  font-size: .5em;
+  letter-spacing: .05em;
+  text-transform: none;
+}
+
+@keyframes puls-bog {
+  0%, 100% { opacity: .92; filter: brightness(1); }
+  50%      { opacity: 1;   filter: brightness(1.22); }
+}
+
+@keyframes puls-diabel {
+  0%, 100% { opacity: .95; filter: brightness(1); }
+  50%      { opacity: .86; filter: brightness(1.12); }
+}
+
+.podtytul {
+  margin: 14px auto 0;
+  max-width: 62ch;
+  color: var(--tekst-cichy);
+  font-style: italic;
+  font-size: 1.02rem;
+}
+
+.statusy {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px 26px;
+  margin-top: 26px;
+  font-family: var(--font-ui);
+  font-size: .76rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.status { display: flex; gap: 9px; align-items: baseline; }
+.status .etykieta { color: var(--tekst-cichy); }
+.status b { color: var(--zloto-jasny); font-weight: 600; }
+.status.bog b { color: var(--bog); }
+.status.diabel b { color: var(--diabel); }
+
+/* ---------- układ ---------- */
+#tresc {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 40px;
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 34px 24px 60px;
+  align-items: start;
+}
+
+#pasek { position: sticky; top: 22px; display: grid; gap: 16px; }
+
+/* ---------- tury ---------- */
+.tura {
+  position: relative;
+  margin-bottom: 30px;
+  padding: 26px 28px 24px;
+  border: 1px solid var(--kreska);
+  border-radius: 4px;
+  background:
+    linear-gradient(180deg, rgba(28,22,32,.72), rgba(12,9,15,.72));
+  backdrop-filter: blur(3px);
+  animation: wjazd .8s cubic-bezier(.2,.8,.2,1) both;
+}
+
+@keyframes wjazd {
+  from { opacity: 0; transform: translateY(22px); filter: blur(4px); }
+  to   { opacity: 1; transform: none; filter: none; }
+}
+
+.tura::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  border-radius: 4px 0 0 4px;
+}
+
+.tura.bog::before {
+  background: linear-gradient(180deg, var(--bog), rgba(240,198,116,.12));
+  box-shadow: 0 0 18px rgba(240,198,116,.45);
+}
+
+.tura.diabel::before {
+  background: linear-gradient(180deg, var(--diabel), rgba(194,69,31,.12));
+  box-shadow: 0 0 18px rgba(214,69,69,.40);
+}
+
+.tura.bog     { background: linear-gradient(180deg, rgba(36,29,20,.62), rgba(12,9,15,.75)); }
+.tura.diabel  { background: linear-gradient(180deg, rgba(34,17,19,.62), rgba(12,9,15,.75)); }
+
+.tura-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+  align-items: baseline;
+  padding-bottom: 12px;
+  margin-bottom: 16px;
+  border-bottom: 1px dashed rgba(46,36,54,.9);
+}
+
+.mowca {
+  font-size: 1.28rem;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.mowca.bog    { color: var(--bog); }
+.mowca.diabel { color: var(--diabel); }
+
+.nr-tury {
+  font-family: var(--font-ui);
+  font-size: .74rem;
+  letter-spacing: .1em;
+  color: var(--tekst-cichy);
+  text-transform: uppercase;
+}
+
+.nastroj {
+  font-style: italic;
+  color: var(--zloto);
+  font-size: .95rem;
+}
+
+.nastroj::before { content: '„'; opacity: .6; }
+.nastroj::after  { content: '”'; opacity: .6; }
+
+.czas {
+  margin-left: auto;
+  font-family: var(--font-ui);
+  font-size: .72rem;
+  color: var(--tekst-cichy);
+}
+
+.mowa { white-space: pre-wrap; }
+.mowa p { margin: 0 0 1.05em; }
+.mowa p:last-child { margin-bottom: 0; }
+
+/* ---------- cytaty ---------- */
+.cytaty { margin-top: 20px; padding-top: 16px; border-top: 1px solid rgba(46,36,54,.85); }
+
+.cytaty h4 {
+  margin: 0 0 12px;
+  font-family: var(--font-ui);
+  font-size: .7rem;
+  font-weight: 600;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--tekst-cichy);
+}
+
+.citat {
+  position: relative;
+  margin: 0 0 12px;
+  padding: 11px 15px 11px 17px;
+  border-left: 2px solid var(--zloto);
+  background: rgba(217,164,65,.045);
+  border-radius: 0 3px 3px 0;
+  font-size: .95rem;
+  line-height: 1.6;
+}
+
+.citat .frag { font-style: italic; color: #e6dccf; }
+.citat .ref {
+  display: block;
+  margin-top: 5px;
+  font-family: var(--font-ui);
+  font-size: .7rem;
+  letter-spacing: .06em;
+  color: var(--tekst-cichy);
+}
+
+.citat.ok    { border-left-color: var(--ok); background: rgba(111,174,122,.05); }
+.citat.bliz  { border-left-color: var(--zblizenie); background: rgba(201,162,39,.05); }
+.citat.zly   { border-left-color: var(--nie); background: rgba(176,64,64,.07); }
+
+.znaczka {
+  display: inline-block;
+  margin-left: 7px;
+  padding: 1px 7px;
+  border-radius: 2px;
+  font-family: var(--font-ui);
+  font-size: .62rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  vertical-align: 1px;
+}
+
+.citat.ok .znaczka   { background: rgba(111,174,122,.18); color: var(--ok); }
+.citat.bliz .znaczka { background: rgba(201,162,39,.18);  color: var(--zblizenie); }
+.citat.zly .znaczka  { background: rgba(176,64,64,.22);   color: #e08a8a; }
+
+/* ---------- sekcje mowy ---------- */
+.sekcje { margin-top: 18px; display: grid; gap: 11px; }
+
+.sekcja {
+  padding: 11px 15px;
+  border: 1px solid rgba(46,36,54,.8);
+  border-radius: 3px;
+  background: rgba(8,6,10,.42);
+  font-size: .93rem;
+  line-height: 1.6;
+}
+
+.sekcja b {
+  display: block;
+  margin-bottom: 4px;
+  font-family: var(--font-ui);
+  font-size: .68rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--zloto);
+}
+
+/* ---------- panel boczny ---------- */
+.karta {
+  padding: 17px 19px;
+  border: 1px solid var(--kreska);
+  border-radius: 4px;
+  background: linear-gradient(180deg, rgba(22,16,26,.82), rgba(10,8,13,.82));
+}
+
+.karta h2 {
+  margin: 0 0 13px;
+  font-family: var(--font-ui);
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .17em;
+  text-transform: uppercase;
+  color: var(--zloto);
+  padding-bottom: 9px;
+  border-bottom: 1px solid rgba(46,36,54,.9);
+}
+
+.licznik-glowny { display: flex; align-items: baseline; gap: 11px; }
+.licznik-glowny b {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: var(--zloto-jasny);
+}
+.licznik-glowny span { font-size: .82rem; color: var(--tekst-cichy); line-height: 1.35; }
+
+.pasek-post {
+  display: flex;
+  height: 7px;
+  margin: 15px 0 10px;
+  border-radius: 4px;
+  overflow: hidden;
+  background: rgba(46,36,54,.7);
+}
+
+.pasek-post i { display: block; height: 100%; transition: width .8s ease; }
+.pasek-post .dokladnie { background: var(--ok); }
+.pasek-post .zblizenie { background: var(--zblizenie); }
+.pasek-post .nie       { background: var(--nie); }
+
+.legendka { list-style: none; margin: 0; padding: 0; font-family: var(--font-ui); font-size: .76rem; }
+.legendka li { display: flex; justify-content: space-between; padding: 3px 0; color: var(--tekst-cichy); }
+.legendka li span:last-child { color: var(--tekst); }
+.legendka .k { display: inline-block; width: 9px; height: 9px; margin-right: 8px; border-radius: 2px; }
+.legendka .k.dokladnie { background: var(--ok); }
+.legendka .k.zblizenie { background: var(--zblizenie); }
+.legendka .k.nie       { background: var(--nie); }
+
+.ksiegi { list-style: none; margin: 0; padding: 0; font-family: var(--font-ui); font-size: .78rem; }
+.ksiegi li { display: flex; justify-content: space-between; gap: 10px; padding: 4px 0; color: var(--tekst-cichy); }
+.ksiegi li b { color: var(--zloto-jasny); font-weight: 500; }
+.ksiegi .nazwa { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.watki { list-style: none; margin: 0; padding: 0; font-size: .88rem; }
+.watki li { position: relative; padding: 8px 0 8px 17px; color: var(--tekst); line-height: 1.55; }
+.watki li::before {
+  content: '✦';
+  position: absolute;
+  left: 0;
+  top: 8px;
+  color: var(--zloto);
+  font-size: .7rem;
+}
+
+.pamiec {
+  max-height: 260px;
+  overflow-y: auto;
+  font-size: .84rem;
+  line-height: 1.6;
+  color: var(--tekst-cichy);
+  white-space: pre-wrap;
+}
+
+.pamiec-bog .pamiec     { border-left: 2px solid rgba(240,198,116,.35); padding-left: 11px; }
+.pamiec-diabel .pamiec  { border-left: 2px solid rgba(214,69,69,.35);   padding-left: 11px; }
+
+/* ---------- stan ładowania ---------- */
+.wskaz {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  justify-content: center;
+  padding: 40px 0;
+  color: var(--tekst-cichy);
+  font-style: italic;
+}
+
+.kula {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: var(--zloto);
+  box-shadow: 0 0 18px rgba(217,164,65,.85);
+  animation: kula 1.5s ease-in-out infinite;
+}
+
+@keyframes kula {
+  0%, 100% { transform: scale(.62); opacity: .5; }
+  50%      { transform: scale(1.18); opacity: 1; }
+}
+
+.blad {
+  padding: 26px;
+  border: 1px solid var(--nie);
+  border-radius: 4px;
+  background: rgba(176,64,64,.08);
+  color: #e5b3b3;
+  text-align: center;
+}
+
+/* ---------- stopka ---------- */
+#stopka {
+  position: relative;
+  z-index: 2;
+  padding: 30px 24px 44px;
+  border-top: 1px solid var(--kreska);
+  text-align: center;
+  color: var(--tekst-cichy);
+  font-size: .86rem;
+  line-height: 1.65;
+}
+
+#stopka p { margin: 4px 0; }
+#stopka .techniczne { font-family: var(--font-ui); font-size: .74rem; opacity: .75; }
+
+/* ---------- responsywność ---------- */
+@media (max-width: 940px) {
+  #tresc { grid-template-columns: 1fr; gap: 30px; }
+  #pasek { position: static; }
+  .pamiec { max-height: 190px; }
+}
+
+@media (max-width: 560px) {
+  body { font-size: 16px; }
+  #naglowek { padding: 30px 16px 20px; }
+  #tresc { padding: 22px 14px 44px; }
+  .tura { padding: 20px 17px; }
+  .czas { margin-left: 0; width: 100%; }
+  .statusy { gap: 7px 16px; font-size: .68rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+  #mgla { animation: none; }
+}
