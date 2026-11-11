@@ -380,6 +380,20 @@ body {
 .ksiegi li b { color: var(--zloto-jasny); font-weight: 500; }
 .ksiegi .nazwa { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
+.tokeny .metryki { margin: 0; font-family: var(--font-ui); font-size: .78rem; }
+.tokeny .metryki > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 4px 0;
+  border-bottom: 1px dotted rgba(46,36,54,.7);
+}
+.tokeny .metryki > div:last-child { border-bottom: 0; }
+.tokeny dt { color: var(--tekst-cichy); }
+.tokeny dd { margin: 0; color: var(--tekst); font-variant-numeric: tabular-nums; }
+.tokeny .koszt dd { color: var(--zloto-jasny); font-weight: 600; }
+.tokeny .zero { margin: 0; color: var(--tekst-cichy); font-style: italic; font-size: .84rem; }
+
 .watki { list-style: none; margin: 0; padding: 0; font-size: .88rem; }
 .watki li { position: relative; padding: 8px 0 8px 17px; color: var(--tekst); line-height: 1.55; }
 .watki li::before {

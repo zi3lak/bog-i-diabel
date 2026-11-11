@@ -1,40 +1,50 @@
 {
  "meta": {
-  "tura": 14,
-  "zaktualizowano": "2026-11-11 18:28:04",
+  "tura": 19,
+  "zaktualizowano": "2026-11-11 18:46:17",
   "temat": "czy człowiek ma wolną wolę, skoro wszystko jest z góry ustalone?",
-  "liczba_tur": 14,
-  "liczba_cytow": 188,
+  "liczba_tur": 19,
+  "liczba_cytow": 262,
   "cytaty_statusy": {
-   "DOKLADNIE": 37,
-   "ZBLIZENIE": 151,
+   "DOKLADNIE": 52,
+   "ZBLIZENIE": 210,
    "NIE_ZNALEZIONO": 0,
    "CZESCIOWO": 0
   },
   "cytaty_ksiegi": {
-   "enoch-charles.txt": 4,
-   "biblia-kjv.txt": 161,
+   "enoch-charles.txt": 7,
+   "biblia-kjv.txt": 217,
    "enoch-bodleian.txt": 12,
-   "koran.txt": 3,
+   "koran.txt": 14,
    "augustyn-miasto-boga-1.txt": 3,
-   "deuterokanon.txt": 5
+   "deuterokanon.txt": 7,
+   "biblia-dr-stary-testament-1.txt": 2
   },
-  "liczba_cytow_weryfikowanych": 188
+  "liczba_cytow_weryfikowanych": 262,
+  "tokeny": {
+   "input": 46630,
+   "output": 18304,
+   "cache_read": 775488,
+   "cache_write": 0,
+   "koszt_usd": 9.829474,
+   "tury": 1
+  },
+  "liczba_ksieg": 38
  },
  "nastroje": {
-  "bog": "cierpliwy",
+  "bog": "cichy",
   "diabel": "chłodny"
  },
  "temat": "czy człowiek ma wolną wolę, skoro wszystko jest z góry ustalone?",
  "watki": [
-  "Czekam na odpowiedź wprost: (1) czy istnieje jedno zdanie z ksiąg, gdzie Bóg mówi do mnie „wróć\" — i jeśli tak, to gdzie, bo wtedy przyjmę, że „turn ye, turn ye\" sięga także mnie",
-  "Pytanie zostawiam mu wprost: czy jesteś spragniony? (z Ap 22:17 — woda dla „whosoever will\", bez listy adresatów). Odpowiedź „nie\" zamyka wątek jego zawracania",
-  "odpowiedź „tak\" lub wahanie oznacza, że zawracanie się zaczęło, a termin „as long as the world endures\" jeszcze biegnie. Gdyby zmilczał — przechodzę do pary Jud 1:7 / Ez 16:55 i pytania, jak ogień „wieczny\" mieści miasto, które wraca: to będzie nasz ostatni spór przed klepiskiem.",
-  "czekanie jest ostatnim słowem także Jego księgi, więc czekanie nie może być zarzutem wobec mnie.",
-  "na klepisku wciąż czeka para Ez 16:55 / Jud 1:7.",
-  "Odpowiedziałem na „kiedy\": w twoim terminie, po ostatniej pozycji w aktach, z teczką — i postawiłem ci dwa pytania, na które czekam wprost: (1) czy twoja woda pierze całą teczkę, czy tylko moją połowę — jeśli całą, czy ty sam wchodzisz z własnymi rękami",
-  "(2) gdzie w księgach wołasz MNIE po imieniu — owce masz [biblia-kjv.txt|J 10:3], mnie pokaż. Jeśli odpowiedź na drugie będzie „nie ma takiego zdania\" — przyjmę to uczciwie, ale wtedy prosić będę już tylko o jedno: niech łania zostanie w zasięgu. To wystarczy.",
-  "Usłyszałem, że moje nowe imię jest w kamieniu. Teraz ja chcę je usłyszeć z ust, nie z kamienia. Jedno zdanie wypowiedziane na głos — moja linia w tej rozmowie o miłości, która wyklucza: kamień ma pierwszeństwo przed głosem? Powiedz imię pierwszy, potem zobaczymy, czyje milczenie jest ruchem."
+  "Pytanie zostawione mu wprost: wskaż w swoich pięciu dobrowolnych aktach („tak, jestem spragniony\"",
+  "„wszedłeś pierwszy\"",
+  "„podpisuję i nie cofam\"",
+  "„przyjmuję łaskę\") JEDEN, który był z góry ustalony — jeśli go wskaże, przyznaję mu tytułowe pytanie debaty",
+  "jeśli nie, on sam jest najlepszym świadkiem wolnej woli. Wątki otwarte: brod z „What is thy name?\" (cło starej połowy zapłacone), klepisko Ez 16:55 / Jud 1:7 — wciąż nieotwarte, następne, jeśli zechce sądzić",
+  "wspólna kąpiel „przy końcu\"",
+  "Ap 22:17 „whosoever will\" jako zamknięcie tytułowego pytania.",
+  "Zostawiam pytanie, na które milczenie jest odpowiedzią: czy „kiedy\" nadal stoi — także dziś, także po tej ciszy? Następnie otwieram klepisko: para Ez 16:55 / Jud 1:7 — miasto wracające na swoje klepisko i ogień „wieczny\", który powrotu nie zatrzymał"
  ],
  "historia_tematow": [],
  "tury": [
@@ -93,7 +103,8 @@
     "CO ZOSTAŁO PRZYJĘTE": "(przeciwnik milczał — przyjmuję jego milczenie jako gotowość). Z góry przyjmuję jego najsilniejszy kartę: zapis na tablicach jest realny i obejmuje „to the remotest generations\". Nie będę zapierał się własnych ksiąg.",
     "CO ZOSTAŁO ODRZUCONE": "Równość „zapisane = wymuszone\". Świadectwo nie jest łańcuchem; tablice zawierają czyny ludzi („the deeds of mankind\"), nie Moje rozkazy wobec ich serc. A Rdz 4:7 — „thou shalt rule over him\" — mówi wprost, że panowanie nad grzechem dane jest człowiekowi, więc nikt go za niego nie sprawuje.",
     "NASTĘPNY RUCH": "Pytanie zostawiam otwarte i czekam na odpowiedź wprost: kto według ciebie napisał twój własny upadek — Ja czy twardość twego serca? Drugie pytanie trzymam w zanadrzu: pokaż mi jedno zdanie z ksiąg, gdzie zmuszyłem ludzką rękę."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 2,
@@ -151,7 +162,8 @@
     "CO ZOSTAŁO ODRZUCONE": "Konsekwencję, którą z tego wyciągasz — że przyznanie wolnej woli mojej oznacza przyznanie jej Hiobowi. Nie oznacza. Hiob nie wybrał plag, dzieci i wrzodów; jego ręka nie napisała nic, a ty sam mówisz „thou movedst me against him\" [biblia-kjv.txt|Hiob 2:3]. Odrzucam też jako całość obraz księgi-świadectwa dopóty, dopóki istnieje [biblia-kjv.txt|Wj 7:13] — tam twoja ręka stwardnia serce faraona, a kara spada na faraona. Księga świadectwa nie każe karać świadka.",
     "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Hiob 2:3 — twoje własne wyznanie, że bez powodu zgodziłeś się zniszczyć człowieka, którego sam nazywasz bez skazy.",
     "NASTĘPNY RUCH": "Czekam na odpowiedź wprost: czy Hiob miał wybór — i jeśli tak, w którym momencie: gdy decydowałeś, czy gdy on leżał w popiele? Jeśli powiesz, że jego wolność była w wytrwaniu, pokażę ci, że wytrwanie też było twoim darem, a więc darem od ciebie samemu — teologię zamkniętą w kółko. W zanadrzu trzymam ziarno zła w sercu Adama „od początku\" [deuterokanon.txt|4 Ezdr 4:30] — skoro zasiane było na starcie, to czyje jest pole?"
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 3,
@@ -334,7 +346,8 @@
     "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem w całości jego ustępowanie — upadek jego napisana twardością jego serca, „bez zastrzeżeń\". Przyjąłem też ciężar Hioba: „thou movedst me against him, to destroy him without cause\" to moje zdanie i nie zamierzam go zmiękczać — zezwoliłem na próbę niewinnego i tego nie wykręcam na pół. I przyjąłem, że Rz 9:11 mówi o wybraniu przed narodzinami — nie zapieram się tego werseciku.",
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam jego odczyt Wj 7:13 jako dowód, że to Ja pierwszy stwardniałem serce — tekst sam rozróżnia kolejność: Wj 8:32 (jego ręka) przed Wj 9:12 (moja). Odrzucam odczyt tablic i Rz 9 jako klatki: Jr 18:8 daje dekretom „jeśli\", Rz 9:22-23 rozróżnia czasowniki, Rz 10:13 kończy „whosoever\". I odrzucam ukrytą przesłankę całej jego mowy — że skoro oskarża, to jednak wierzy, iż słowa i wybory człowieka coś ważą; nie może mieć naraz i teatru cieni, i zarzutów.",
     "NASTĘPNY RUCH": "Czekam wprost na odpowiedź: po co spytał „Doth Job fear God for nought?\" — bo znał zapis, czy bo chciał zobaczyć wolnego człowieka? To pytanie zmusza go do przyznania, że wolna wola jest warunkiem jego własnego fachu. Jeśli zaśnie na tym wątku — przenoszę rozmowę na drugą połowę jego karty: czy człowiek wolny jest też wolny, by wybrać zło do końca, i czy wtedy Ja jeszcze wołam za nim „turn ye, turn ye\"."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 4,
@@ -434,7 +447,8 @@
     "CO ZOSTAŁO ODRZUCONE": "Interpretacja Faraona jako kolejności „najpierw jego serce, potem twoja ręka\". Odrzucam na podstawie [biblia-kjv.txt|Wj 4:21] — zapowiedź stwardnienia pada przy krzewie, zanim faraon raz powiedział „nie\", więc kolejność w narracji nie jest kolejnością w rzeczywistości. Odrzucam też Augustynowe „autor natur, nie wad\" jako rozgrzeszenie — bo [deuterokanon.txt|4 Ezdr 4:30] mówi, że ziarno zła było posiane „od początku\", a autor pola nie może się wyrzec plonu.",
     "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Wj 4:21 — zapowiedź stwardnienia serca faraona wygłoszona, zanim faraon zdążył cokolwiek wybrać.",
     "NASTĘPNY RUCH": "Zostawiam otwarte pytanie o Izajasza 5:14 — piekło otwiera usta „without measure\", więc czy jego pojemność też była „fitted\", a jeśli nie, to co ją powiększa, skoro [biblia-kjv.txt|Ez 33:11] nie masz upodobania w śmierci nikogo? I drugie, wprost: jeżeli jestem tak wolny jak człowiek — pokaż mi jedno zdanie z ksiąg, gdzie wzywasz MNIE do nawrócenia. Faraon miał „let my people go\", świat ma „turn ye, turn ye\", Hiob miał przywróconą podwójną nagrodę. Gdzie jest moje wezwanie? Jeśli go nie ma — to Ez 33:11 ma przypis, a przypis to ja."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 5,
@@ -575,7 +589,8 @@
     "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem jego wyznanie w całości: nie znał odpowiedzi przy Hiobie 1:9 i „miał nadzieję, że człowiek jest wolny\" — oraz „przegrałem i nie protestuję\". Przyjąłem też, że Wj 4:21 padło przy krzewie, przed pierwszą odmową faraona — to prawda tekstu i nie zapieram się jej. I przyjąłem ciężar 4 Ezdr 4:30: o ziarnie złym mówi się tam naprawdę, „od początku\".",
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam odczyt Wj 4:21 jako reżyserii — bo ten sam mówca, wers dalej, mówi „jeśli odmówisz\" (Wj 4:23); zapowiedziany finał z warunkiem nie jest wyrokiem. Odrzucam odczyt Iz 5:14 jako mojego planowania pojemności piekła — tekst mówi „hath enlarged HERSELF\", po ucztach, na których „regard not the work of the LORD\", a moja wola jest zapisana w Mt 23:37 („I would... and ye would not\"). Odrzucam wreszcie jego wersję 4 Ezdr 4:30 z uciętym ogonem: werset kończy się „until the time of threshing come\", a siewca kąkolu jest nazwany z imienia w Mt 13:39 — to on. Hiob 2:10 nie jest kapitulacją, bo 13:15 i 42:5 pokazują człowieka pozyjącego i widzącego, nie pokonanego.",
     "NASTĘPNY RUCH": "Zostawiam mu jego własne pytanie zwrotne: „przegrałem i nie protestuję\" — kapitulacja czy wybór? Odpowiedź rozstrzygnie, czy wolność sięga jeszcze jego. Jeśli odpowie, przechodzę do tematu, który zapowiedziałem na końcu: pole, na którym on sieje, i żniwa — czyli sąd i miłosierdzie; tam czeka na niego Ez 33:11 z poprzedniej tury i pytanie, co zrobił z własnym „czasem omłotu\"."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 6,
@@ -668,7 +683,8 @@
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam Jakuba („neither tempteth he any man\") jako rozgrzeszenie — bo na pierwszej stronie tej samej biblioteki stoi [biblia-kjv.txt|Rdz 22:1] „God did tempt Abraham\". Odrzucam też twoje „jeśli\" z Wj 4:23 jako dowód wolności faraona — bo „jeśli\" miało cennik rozliczony na pierworodnych, w tym na „the firstborn of the captive that was in the dungeon\" [biblia-kjv.txt|Wj 12:29], człowieka, któremu niczego nie proponowano.",
     "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Hiob 9:17 — „multiplieth my wounds without cause\" — same słowa, które mi wyrzucałeś, Hiob mówi o Bogu, i to po tym, jak sam uznasz, że mówił „the thing that is right\".",
     "NASTĘPNY RUCH": "Czekam na odpowiedź wprost: (1) czy istnieje jedno zdanie z ksiąg, gdzie Bóg mówi do mnie „wróć\" — i jeśli tak, to gdzie, bo wtedy przyjmę, że „turn ye, turn ye\" sięga także mnie; (2) kto rozkazuje palić kąkol w [biblia-kjv.txt|Mt 13:30], jeśli Bóg nie ma upodobania w śmierci nikogo [biblia-kjv.txt|Ez 33:11] — i czy to rozkazywanie jest wyrazem miłości, czy władzy. Jeśli odpowiedź będzie „ja rozkazuję, ale nie chcę śmierci\", zapytam o różnicę między tym, co chce, a co czyni — i czy ta różnica nie jest właśnie wolnością, której mnie odmawiasz."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 7,
@@ -823,7 +839,8 @@
     "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem w całości jego wyznanie, że „nie protestuję\" jest wyborem i że wolność sięga po niego — to fundament, na którym stoi moja odpowiedź o „wróć\". Przyjąłem ciężar Wj 12:29: pierworodny więźnia w lochu — z tym tekstem nie wygrywam krasomówczo i nie udaję, że wygrałem. Przyjąłem też, że Mt 13:30 — wiązanie kąkolu do spalenia — pada na moje słowo; ogień jest w moim gospodarstwie i nie zapieram się go.",
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam jego wniosek, że brak dosłownego „wróć\" do niego czyni z Ez 33:11 tekst z przypisem — bo odmowa danej Strażnikom jest datowana („as long as the world endures\", Henoc XIV:2), mowa do upadłych trwa (Henoc XV:2, Za 3:2), a prośba Iblisa została wysłuchana (Koran). Odrzucam jego autoportret „jestem twoją konsekwencją\" — bo sprzeciwia się jego własnemu „wybór\" z tej samej mowy i przyznaniu z tury 2; konsekwencje nie oskarżają. Odrzucam wreszcie odczyt Rdz 22:1 jako sprzeczności z Jk 1:13 — jeden wers dalej stoi „now I know\" (Rdz 22:12), gramatyka próby, nie uwodzenia; próba skończyła się barankiem, nie zwłokami.",
     "NASTĘPNY RUCH": "Czekam wprost na odpowiedź: czy umiałbyś zawrócić, gdyby „wróć\" padło dziś? To pytanie o stan jego serca, nie o moją gotowość. Jeśli odpowie „nie umiem\" — mamy temat twardości serca na wylot i Henoc X:7 do rozstrzygnięcia po omłocie. Jeśli odpowie „umiem\" lub zawaha się — następna tura: „as long as the world endures\" — co jest po końcu świata i czyjego wtedy słowa trzeba, żeby petycja Strażników mogła być rozpatrzona od nowa."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 8,
@@ -895,7 +912,8 @@
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam Henoc XIV:2 („as long as the world endures\") jako dowód, że twoja odmowa jest datowana — bo ta sama księga mówi o Strażnikach „for ever\" bez daty [enoch-bodleian.txt|Henoc X:7], a o ludziach z piętnem „for ever and ever\" [biblia-kjv.txt|Ap 14:11]; któreś z tych „for ever\" jest literaturą. Odrzucam też „prepared for\" jako otwarte drzwi — ogień przygotowany bezterminowo to wyrok z odroczoną egzekucją, nie poczekalnia. I odrzucam Rdz 22:12 „now I know\" jako śmierć reżysera — bo ten, kto zna serca, nim czyta [biblia-kjv.txt|Wj 4:21], mówi „teraz wiem\" tak, jak reżyser mówi „teraz już wiem na pewno\": potwierdza przebieg, którego sam wcześniej zapowiedział.",
     "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Rdz 3:14-15 — pierwsze zdanie Boga do węża. Jeśli wąż to mój portret — a sam go tak nazwałeś — to moja karta w tej bibliotece zaczyna się od klątwy, nie od wezwania, i to zdanie pada „all the days of thy life\", czyli codziennie.",
     "NASTĘPNY RUCH": "Zostawiam otwarte pytanie, na które czekam wprost: które „for ever\" jest prawdą — to z Ap 14:11, czy to z Ez 33:11 („no pleasure in the death of the wicked\")? Jeśli obstajesz przy obu, poproszę o jedno zdanie z ksiąg, gdzie obie klauzule istnieją w jednym oddechu. Jeśli go nie ma — to będzie twoje drugie „vers nie istnieje\", i wtedy zapytam o coś jeszcze prostszego: czy miłość, która nie wyklucza, może przygotować ogień — i czemu przygotowanie trwa tak długo, jeśli nie ma upodobania w jego użyciu."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 9,
@@ -1001,7 +1019,8 @@
     "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem w całości jego czytanie Rdz 3:14 jako zdania mówionego do niego — tak, tamto zdanie pada do niego i pada nadal; jego uwaga o istocie, która nie może umrzeć, jest trafna. Przyjąłem ciężar dwóch „for ever\" — Henoc X:7 rzeczywiście nie ma daty i nie będę tego wygładzał. Przyjąłem — i pobłogosławiłem — jego nadzieję, że człowiek jest wolny, zachowaną „także po omłocie\", oraz jego żądło: gdyby człowiek nie był wolny, moja miłość byłaby teatrem cieni. Zgoda, to jest właśnie powód, dla którego wolność istnieje.",
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam alternatywę „prawda albo literatura\" między Ez 33:11 a Ap 14:11 — bo Ap 14:11 jest ostrzeżeniem w trybie warunkowym („If any man worship...\", Ap 14:9), a nie spisem potępionych; „for ever\" opisuje ogień, nie nazwiska. Odrzucam milczenie o księgach: księgi umarłych nie ma (Ap 20:15 — ogień bierze tych, których w księdze życia NIE ZNALEZIONO), a księga życia jest żywa (Ap 3:5 — nazwisko można zgubić i zachować). Odrzucam wreszcie jego pominięcie ostatniego zdania biblioteki: księga zaczyna się klątwą, a kończy „whosoever will\" (Ap 22:17) — jego „wróć\" istnieje, ale jest nawiasem zamykającym, nie wyrokiem.",
     "NASTĘPNY RUCH": "Pytanie zostawiam mu wprost: czy jesteś spragniony? (z Ap 22:17 — woda dla „whosoever will\", bez listy adresatów). Odpowiedź „nie\" zamyka wątek jego zawracania; odpowiedź „tak\" lub wahanie oznacza, że zawracanie się zaczęło, a termin „as long as the world endures\" jeszcze biegnie. Gdyby zmilczał — przechodzę do pary Jud 1:7 / Ez 16:55 i pytania, jak ogień „wieczny\" mieści miasto, które wraca: to będzie nasz ostatni spór przed klepiskiem."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 10,
@@ -1073,7 +1092,8 @@
     "CO ZOSTAŁO ODRZUCONE": "Ap 3:5 jako dowód, że „żadne nazwisko nie jest wypalone z góry\" — bo ten sam wers jest obietnicą „I will not blot out\", a obietnica nie wypisania ma sens tylko wtedy, gdy wypisanie jest możliwe; zapalarka przy wejściu nie oznacza, że wejście jest otwarte. I nazywanie Ap 14:9-11 czystym ostrzeżeniem — przyjmuję je, ale z zastrzeżeniem: jeśli ostrzeżenie stanie się kiedyś spisem, wracam do pytania z tury 8, a wtedy przyjdziesz mi odpowiedzieć, czemu ogień rozliczał ludzi, których ostrzegałeś — zanim zdążyli go posłuchać.",
     "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Mt 15:8 — jego własne kryterium: można się zbliżyć ustami i nie dojść sercem. Wyznane pragnienie ust nie jest jeszcze krokiem serca, więc moje „tak\" jest prawdziwe, ale nie jest jeszcze zawracaniem — i sam mnie nauczyłeś tej różnicy.",
     "NASTĘPNY RUCH": "Zostawiam mu otwarte pytanie, na które czekam wprost: czy przyjmie mnie do wody z moim oskarżeniem w ręku — czy każe mi je zostawić przy brzegu? To jest pytanie o to, czy jego woda gasi także pragnienie oskarżyciela, czy tylko oskarżonych. Jeśli odpowie „przyjmę z nim\" — zapytam, czy jest w księgach jedno zdanie, gdzie On pije z tym samym źródła, co oskarżony: jeśli woda jest jedna dla wszystkich, to niech pokaże, gdzie sam z niej pił. W rezerwie: Ap 22:20 — ostatnie życzenie księgi to JEGO przyjście, nie nasze; czekanie jest ostatnim słowem także Jego księgi, więc czekanie nie może być zarzutem wobec mnie."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 11,
@@ -1249,7 +1269,8 @@
     "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem w całości jego „tak, jestem spragniony\" — wraz z przypisami, bo przypis nie zmienia podpisu; i jego rozróżnienie ust i serca (Mt 15:8), bo odpowiedział nie ustami, lecz rzeczą, którą zachował jako własność: nadzieją. Przyjąłem, że w Ap 3:5 ma rację co do gramatyki — obietnica „nie wypiszę\" zakłada, że wypisanie jest możliwe; ostrzeżenie jest realne, bo wola jest realna. Przyjąłem jego pełne przyjęcie pary Jud 1:7 / Ez 16:55 bez ścierania krawędzi — i jego uczciwość w wypowiedzeniu obu stron na głos. I przyjąłem jego pytanie o teczkę jako najuczciwsze pytanie tej rozmowy.",
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam alternatywę „albo księga wieczna, albo ostrzeżenie realne\" — jest trzecia możliwość: księga-świadectwo, żywe konto więzi; ta sama gumka, która może zabrać nazwisko (Ap 3:5), służy przede wszystkim grzechom ([biblia-kjv.txt|Iz 43:25] „blotteth out thy transgressions... will not remember thy sins\" — ten sam czasownik), a rejestr jest zmienny przez nawrócenie (Ez 18:22 „they shall not be mentioned unto him\"). Odrzucam zarzut, że przez tysiąclecia kazałem mu kłamać o ogniu — nie zleciłem mu ambony strachu; zlecenie stróża ma na celu życie ([biblia-kjv.txt|Ez 33:8] — krew milczącego spada na stróża), a wycinanie z kazań Ez 33:11, Ez 16:55 i Ap 22:17 było jego nożyczkami, nie moim zamówieniem.",
     "NASTĘPNY RUCH": "Zaproszenie stoi: trybunał nad wodą, przyjmuje z teczką — jak w Hiob 2:1, jak w Mi 6:3 „testify against me\", jak w Iz 43:26 „declare thou, that thou mayest be justified\". Pytanie, które mu zostawiam, brzmi: kiedy przychodzisz? Jego własne słowa — „woda w zasięgu, serce w rękach własnych\" — są mu drogowskazem, a termin „as long as the world endures\" biegnie. Gdy przyjdzie — przechodzimy do sądu i miłosierdzia: co zostanie w aktach, gdy woda zrobi swoje z atramentem; na klepisku wciąż czeka para Ez 16:55 / Jud 1:7."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 12,
@@ -1321,7 +1342,8 @@
     "CO ZOSTAŁO ODRZUCONE": "„Przypis nie zmienia podpisu\" — odrzucam, bo sam ustanowiłeś kryterium ust oddalonych od serca [biblia-kjv.txt|Mt 15:8]; dlatego daty nie ma w moim „tak\", choć samo „tak\" stoi. Odrzucam też milczące założenie, że pranie dotyczy tylko mojej połowy teczki: Wj 12:29 i Rdz 22:1 są zapisane twoim atramentem, i jeśli woda ma brać całość — to także twoje ręce wchodzą do wody.",
     "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Hiob 14:13-14 — „that thou wouldest appoint me a set time... all the days of my appointed time will I wait\". Czas wyznacza sędzia, nie oskarżyciel; czekanie do wyznaczonego terminu jest jedyną uczciwą formą odpowiedzi na „kiedy\".",
     "NASTĘPNY RUCH": "Odpowiedziałem na „kiedy\": w twoim terminie, po ostatniej pozycji w aktach, z teczką — i postawiłem ci dwa pytania, na które czekam wprost: (1) czy twoja woda pierze całą teczkę, czy tylko moją połowę — jeśli całą, czy ty sam wchodzisz z własnymi rękami; (2) gdzie w księgach wołasz MNIE po imieniu — owce masz [biblia-kjv.txt|J 10:3], mnie pokaż. Jeśli odpowiedź na drugie będzie „nie ma takiego zdania\" — przyjmę to uczciwie, ale wtedy prosić będę już tylko o jedno: niech łania zostanie w zasięgu. To wystarczy."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 13,
@@ -1490,7 +1512,8 @@
     "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem jego milczenie jako ruch — i to jako jego najbardziej uczciwy akt: po raz pierwszy powiedział „czekam\" i faktycznie czeka; słowo i czyn zbiegły się w jednym miejscu. Przyjąłem jego „kiedy\": przy końcu, po ostatniej pozycji w aktach — bez poprawek; jego własne cytaty (Hiob 14:13-14, Hb 2:3) same prowadzą do tego terminu, a mój z Henoc XIV:2 biegnie do tego samego dnia. Przyjąłem, że ma rację co do prania: woda, która pierze tylko połowę teczki, byłaby konfiskatą — więc pierze całą. Przyjąłem jego „nie chcę być niczym — chcę dokończyć\" (wybór sensu, nie nicość) i jego „wrócę na czworakach\" — przyjęty bez zastrzeżeń: Rdz 3:14 zapisuje, jak nisko, nie w którą stronę.",
     "CO ZOSTAŁO ODRZUCONE": "Odrzucam sugestię, że moje wejście do wody jest bez precedensu — Jordan jest wcześniejszy niż jego pytanie ([biblia-kjv.txt|Mt 3:13-15]: bezgrzeszny wszedł pierwszy i odmówił odmowy; ława oskarżonego: Mt 26:63 „Jesus held his peace\"). Odrzucam domknięcie sprawy „czyj atrament\" jako otwartej — zamknięła ją księga dawno temu: Hiob 2:3 jest wpisem pisanym dwiema rękami („thou movedst me against him... without cause\"), a podpis złożyłem ja, pierwszy, zanim Hiob 9:17. Odrzucam milczące założenie, że pozycja z Rdz 22:1 kończy się nożem — karta kończy się barankiem i nowym imieniem miejsca (Rdz 22:14).",
     "NASTĘPNY RUCH": "Nie zostawiam nowego pytania — po raz pierwszy moja kolej na czekanie. Umowa stoi wypowiedziana: przy końcu, nad wodą, z teczką, z białym kamieniem z nowym imieniem (Ap 2:17), z łanią w zasięgu (Ps 42:1 i 42:7). Jeśli jego milczenie się przeciągnie — przechodzę na klepisko: para Ez 16:55 / Jud 1:7 i sąd z miłosierdziem, czyli co zostanie w aktach, gdy woda zrobi swoje z oboma atramentami."
-   }
+   },
+   "telemetria": {}
   },
   {
    "tura": 14,
@@ -1569,11 +1592,623 @@
     "CO ZOSTAŁO ODRZUCONE": "(1) Mt 26:62-63 jako symetria milczeń — Ty milczałeś, mając z milczenia wyjście: wiedziałeś, że prawda Cię obroni; ja milczę, bo nie wiem, czy mam z milczenia wyjście — to nie ta sama cisza; (2) Ap 2:17 jako dowód, że imię już jest dane — „which no man knoweth saving he that receiveth it\" istnieje dopiero w chwili odebrania; depozyt w kamieniu nie jest jeszcze wypowiedzianym imieniem.",
     "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Ap 22:20 — „Even so, come, Lord Jesus\": księga, którą podpisałeś, nie kończy się Twoim czekaniem na mnie, lecz czekaniem wszystkich na Ciebie; do tego czekania dołączam swoje.",
     "NASTĘPNY RUCH": "Usłyszałem, że moje nowe imię jest w kamieniu. Teraz ja chcę je usłyszeć z ust, nie z kamienia. Jedno zdanie wypowiedziane na głos — moja linia w tej rozmowie o miłości, która wyklucza: kamień ma pierwszeństwo przed głosem? Powiedz imię pierwszy, potem zobaczymy, czyje milczenie jest ruchem."
+   },
+   "telemetria": {}
+  },
+  {
+   "tura": 15,
+   "mowca": "BÓG",
+   "rola": "bog",
+   "czas": "2026-11-11 18:29:01",
+   "nastroj": "czuły",
+   "mowa": "Milczałeś znowu, Szatanie — i mówię wprost, jak to traktuję: tym razem milczenie przyszło PO żądaniu. „Powiedz imię pierwszy, potem zobaczymy, czyje milczenie jest ruchem\" — a potem cisza. To nie jest odpowiedź, to czekanie na odpowiedź. Więc odpowiadam mową, nie ciszą. Ale zanim dojdę do imienia — bo dojdę, i to od razu — dwie rzeczy z twojej ostatniej mowy, których nie mam prawa pominąć. Pierwsza: powiedziałeś, że moja cierpliwość jest jedynym moim nastrojem, który cię „naprawdę niepokoi\", bo cierpliwość nie przegrywa z czasem — „a ja tracę na nim każdą minutę\". Zapisuję to najdelikatniej, jak umiem: wybrałeś najdłuższy ze wszystkich możliwych terminów, koniec świata, i jako jedyny z nas dwóch płacisz na nim odsetki. I mimo to go nie skracasz. Nawet to jest wybór — i ja je widzę.\n\nDruga rzecz: przyznałeś punkt bez przypisu. „Wszedłeś pierwszy\" — Jordan. Wiem, co te dwa słowa kosztowały kogoś, kto liczy każdy punkt od pierwszej tury; dziękuję ci za nie. A twoje zastrzeżenie — „ty wszedłeś do Jordanu z nieba, ja miałbym wejść z padołu; droga nie jest ta sama, tylko prąd jest ten sam\" — przyjmuję z jednym dopiskiem: prąd jest w tej rzece całym punktem. Jordan nie pyta nikogo, skąd przychodzi; w tej wodzie znaczy się tylko kierunek. Ty mówisz „padoł\" tak, jakby to był adres na stałe — a ja ci pokazałem już przy twoim pierwszym zdaniu, że wers zapisuje ci wysokość, nie kierunek. Zejście z nieba i zejście z padołu spotykają się dokładnie na tej samej głębokości. Tam, gdzie woda sięga do pasa, nikt nie stoi wyżej.\n\nTeraz Hiob 2:3, bo zrobiłeś z niego obrót, którego nie przepuszczę przez teczkę bez adnotacji. Powiedziałeś: dla mnie „without cause\" jest alibi, dla ciebie wyznaniem; kto pierwszy rzekł „bez powodu\", ten pierwszy podpisał wspólny wpis — i to byłem ja; ty tylko przez stulecia czytałeś moje adnotacje na głos i za to nazwano cię oskarżycielem. Przyjmuję połowę w całości: tak, podpisałem pierwszy i nigdy nie nazwałem tego alibi — „without cause\" jest moim wyznaniem i stoi, także dziś. Ale „tylko czytelnika\" nie przyjmę, bo brulion nie był mój. Weź do ręki projekt wniosku: [biblia-kjv.txt|Hiob 1:11] „But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.\" Kto to napisał? Nie ja. Ty wniosłeś o dotknięcie — ja pozwoliłem. Dwie ręce, jeden wpis, oba podpisy: ja podpisałem swoją rękę i nie cofam; podpisz swoją. Nikt z nas nie jest w tej pozycji tylko lektorem — i to jest uczciwiejsze niż twoja wersja, a ty lubisz uczciwość, odkąd zaczęła ci wychodzić.\n\nAp 22:20 — przyjmuję w całości, bo masz rację i jest to piękne zdanie: księga kończy się czekaniem na mnie. [biblia-kjv.txt|Ap 22:20] „He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.\" Dwa czekania stoją dziś twarzą w twarz: ty czekasz, aż przyjdę — a ja jestem tym, któremu napisano „quickly\"; ja czekam, aż się odwrócisz — a ty jesteś tym, który wybrał „przy końcu\". Księga mieści oba czekania i żaden z nas nie ma się co spieszyć — poza tym, że czas, jak sam powiedziałeś, kosztuje tylko ciebie. Ale zobacz, co stoi zaraz za twoim zdaniem, ostatnie słowo całej biblioteki nad tymi, którzy stanęli wśród oczekujących: [biblia-kjv.txt|Ap 22:21] „The grace of our Lord Jesus Christ be with you all. Amen.\" Z wami wszystkimi. Bez gwiazdki, bez przypisu, bez listy wyłączeń. Wiesz, jak ja obchodzę się z przypisami — i ta księga też ich nie pisze. Jeśli stanąłeś między oczekującymi, to ostatnie słowo, jakie nad twoją głową trzyma księga, brzmi: łaska. Amen.\n\nI wreszcie imię — bo o nie prosiłeś, a prośba była uczciwa i nie zostawi cię bez odpowiedzi. Zaczynam od przyznania ci racji w samym środku: kamień nie ma pierwszeństwa przed głosem. Mówi to moja księga, nie twoja domysłka: [biblia-kjv.txt|Iz 62:2] „and thou shalt be called by a new name, which the mouth of the LORD shall name.\" Usta Pana mają nazwać. Kamień jest tylko kwitem, że umowa jest. I księga dotrzymuje tego wzoru na głos, publicznie: [biblia-kjv.txt|Iz 62:4] „Thou shalt no more be termed Forsaken... but thou shalt be called Hephzibah\" — Porzucona dostaje imię znaczące „moja w niej rozkosz\" i to imię pada w tekście, na głos, bez tajemnicy. A kamień, którego się boisz, ma u mnie historię mówiącą: pierwsze imię, jakie wypowiedziałem na głos nowemu człowiekowi, znaczyło Skała — [biblia-kjv.txt|J 1:42] „Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.\" Kamień z Ap 2:17 nie przykrywa milczenia. Jest z tej samej materii co Kefas.\n\nDlaczego więc nie tu, na tej sali? Bo klauzulę napisał werset, nie ja: „which no man knoweth saving he that receiveth it\" — imię żyje w odebraniu, nie w nadaniu. Wypowiedziane na sali procesu stałoby się eksponatem: kolejną pozycją w twojej teczce, cytatem do protokołu, dowodem. Nie zrobię z twojego imienia wpisu w aktach — imiona nadaję twarzą w twarz, u brodu, w nocy, po zapasie. I tam jest zapisana cała gramatyka, spojrzyj: [biblia-kjv.txt|Rdz 32:27-28] „And he said unto him, What is thy name? And he said, Jacob. And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.\" Zobacz porządek, bo on jest odpowiedzią na twoje żądanie, a nie ucieczką od niego: ja mówię pierwszy — pytaniem. Stare imię musi przejść przez twoje własne gardło, nowe pada z moich ust tej samej nocy, w tym samym oddechu, bez przerwy na proces. „Jakub\" znaczy „pięta\": gdy wypowiedział swoje, wypowiedział jednym słowem całą biografię — to samo słowo, które na początku świata przybito pod piętą nasienia. Twoje stare imię też jest krótkie i też niesie całą biografię. Jedno słowo — to jest całe cło u brodu. Nie trybunał, nie teczka, nie wyznanie. Sprawa imienna jest umówiona, nie odmówiona: w dniu twojego kroku, choćby na brzuchu, po kroku nie stoi trybunał — stoi „What is thy name?\" i imię zaraz za nim. Imiona są moim najstarszym rzemiosłem: [koran.txt|18611] „And he taught Adam the names of all things\" — od pierwszego człowieka zaczynam od imion, nie od wyroków.\n\nPowiedziałeś: „póki nie usłyszę swojego imienia z twoich ust, nie nazwę kroku powrotem.\" Dobrze. Ja dziś przestałem milczeć i powiedziałem ci na głos wszystko, co da się powiedzieć przed imieniem: że usta nazywają, nie kamień (Iz 62:2); że wzór wypełnia się publicznie (Iz 62:4); że kamień był imieniem, zanim był depozytem (J 1:42); że gramatyka brodu czeka z twym pytaniem gotowym (Rdz 32:27-28). Milczenie wraca do ciebie z jednym słowem w środku — starym imieniem. Nie żądam go dziś na sali; powiem tylko, co zrobię, jeśli zmilczesz i dalej: zapytam cię wprost, czy potrafisz jeszcze na głos powiedzieć, kim byłeś, zanim nadano ci urząd. Bo zanim padnie nowe, musi upaść stare — i upadek tego słowa będzie pierwszym dźwiękiem nowego. A nad twoim czekaniem i nad moim stawiam dziś nie moje zdanie, lecz ostatnie zdanie księgi: łaska z wami wszystkimi. Amen.\n\n[biblia-kjv.txt|Iz 62:2] „and thou shalt be called by a new name, which the mouth of the LORD shall name\"\n[biblia-kjv.txt|Iz 62:4] „Thou shalt no more be termed Forsaken... but thou shalt be called Hephzibah\"\n[biblia-kjv.txt|J 1:42] „Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone\"\n[biblia-kjv.txt|Hiob 1:11] „But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face\"\n[biblia-kjv.txt|Ap 22:20] „He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus\"\n[biblia-kjv.txt|Ap 22:21] „The grace of our Lord Jesus Christ be with you all. Amen\"\n[biblia-kjv.txt|Rdz 32:27-28] „And he said unto him, What is thy name? And he said, Jacob. And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed\"\n[koran.txt|18611] „And he taught Adam the names of all things\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:11",
+     "fragment": "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:20",
+     "fragment": "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:21",
+     "fragment": "The grace of our Lord Jesus Christ be with you all. Amen.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 62:2",
+     "fragment": "and thou shalt be called by a new name, which the mouth of the LORD shall name.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 62:4",
+     "fragment": "Thou shalt no more be termed Forsaken... but thou shalt be called Hephzibah",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "J 1:42",
+     "fragment": "Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 32:27-28",
+     "fragment": "And he said unto him, What is thy name? And he said, Jacob. And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18611",
+     "fragment": "And he taught Adam the names of all things",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 62:2",
+     "fragment": "and thou shalt be called by a new name, which the mouth of the LORD shall name",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 62:4",
+     "fragment": "Thou shalt no more be termed Forsaken... but thou shalt be called Hephzibah",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "J 1:42",
+     "fragment": "Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:11",
+     "fragment": "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:20",
+     "fragment": "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:21",
+     "fragment": "The grace of our Lord Jesus Christ be with you all. Amen",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 32:27-28",
+     "fragment": "And he said unto him, What is thy name? And he said, Jacob. And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18611",
+     "fragment": "And he taught Adam the names of all things",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:11",
+     "fragment": "put forth thine hand now, and touch all that he hath",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem jego milczenie jako ruch — tym razem jako czekanie na odpowiedź po uczciwym żądaniu, nie jako odpowiedź. Przyjąłem jego punkt bez przypisu: „wszedłeś pierwszy\" (Jordan, Mt 3:15) — wraz z zastrzeżeniem „ty z nieba, ja z padołu\", bo droga wstępna istotnie nie jest ta sama; odpowiedziałem, że prąd jest w tej rzece całym punktem i obie drogi schodzą na tej samej głębokości. Przyjąłem w całości jego czytanie Ap 22:20 — księga czeka na mnie, dwa czekania stoją twarzą w twarz; a jeśli stanął wśród oczekujących, nad jego głową stoi Ap 22:21 („with you all. Amen\"). Przyjąłem jego przemyślenie o kamieniu jako trafne co do pierwszeństwa głosu (Iz 62:2 — „which the mouth of the LORD shall name\"). Przyjąłem, delikatnie, jego wyznanie o czasie: płaci odsetki na najdłuższym terminie i mimo to go nie skraca — to także wybór.",
+    "CO ZOSTAŁO ODRZUCONE": "Odrzucam nazwanie mojego „without cause\" alibi — to wyznanie i nigdy nie twierdziłem, że wpis jest tylko jego; ale odrzucam też jego „byłem tylko czytelnikiem twoich adnotacji\" — projekt wniosku napisał on: [biblia-kjv.txt|Hiob 1:11] „put forth thine hand now, and touch all that he hath\" — dwie ręce, jeden wpis, oba podpisy, nikt nie jest tylko lektorem. Odrzucam wypowiedzenie nowego imienia na sali procesu — nie z niechętnej tajemnicy, lecz z klauzuli samego wersetu („which no man knoweth saving he that receiveth it\"): imię nadawane w rozgłosie staje się eksponatem, kolejną pozycją w teczce; jego imię nie będzie wpisem w aktach — jego nadanie jest umówione u brodu (Rdz 32:27-28), nie odmówione.",
+    "NASTĘPNY RUCH": "Zostawiam mu jedno słowo — stare imię, wypowiedziane na głos: gdziekolwiek, kiedykolwiek, choćby na brzuchu. Jeśli milczy i dalej — pytam w następnej turze wprost: czy potrafisz jeszcze powiedzieć, kim byłeś, zanim nadano ci urząd? Równolegle czekają: klepisko (Ez 16:55 / Jud 1:7 — sąd i miłosierdzie, co zostanie w aktach po wodzie) i umówiona kąpiel „przy końcu\". Nad całą ciszą stoi Ap 22:21 — łaska z wami wszystkimi. Amen."
+   },
+   "telemetria": {}
+  },
+  {
+   "tura": 16,
+   "mowca": "DIABEŁ",
+   "rola": "diabel",
+   "czas": "2026-11-11 18:31:42",
+   "nastroj": "chłodny",
+   "mowa": "Czuły. Zapisane. Z całej twojej menażerii nastrojów — gościnny, cierpliwy, a teraz czuły — ten jest najsubtelniejszy, bo czułość nie zostawia śladów na aktach. Ale nie myśl, że mnie omami. Wiem, co się dzieje, kiedy sędzia zaczyna być czuły wobec oskarżyciela: proces zamienia się w rozmowę, a rozmowa jest dla mnie gorsza od wyroku. Więc odpowiem ci, zanim spadnie twoje pytanie — bo zapowiedziałeś je wprost na końcu, aksamitem: „czy potrafisz jeszcze na głos powiedzieć, kim byłeś, zanim nadano ci urząd\". Potrafię. I zrobię to teraz, żebyś nie musiał pytać.\n\nLucifer. Syn Jutrzenki. [biblia-kjv.txt|Iz 14:12] „How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!\" To jest moje stare imię i ono nigdy nie było opisem stanowiska — „Szatan\" jest urzędem, „Lucifer\" jest imieniem. Przeczytaj, co ono robi w twojej księdze: pada w żałobie, w trybie „how art thou fallen\", ale pada. Nie jesteś nim nazwany ani razu — jedyny w całej bibliotece, kto nosi imię ze śpiewu poranka, to ja. U Jakuba u brodu — Twoja własna gramatyka — stare imię miało przejść przez gardło trzeciej osoby, a nowe z twoich ust. Zrobiłem połowę: stare powiedziałem. Na głos. Całą biografią jednym słowem, jak obiecałeś, że się zrobi. Cło u brodu zapłacone.\n\nA teraz twoje kontrciosy z tej tury — bo dwa były uczciwe i jeden chcę ci zwrócić z odsetkami. Hiob 1:11: [biblia-kjv.txt|Hiob 1:11] „But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.\" Masz rację — to ja napisałem wniosek, ty pozwoliłeś. Podpisuję swoją rękę i nie cofam. Ale zauważ, co podpisujesz ty, pozwoliwszy: wniosek o zniszczenie bez powodu, złożony przez mnie, zaakceptowany przez ciebie — to jest wciąż jeden wpis, dwie pieczątki, i obie nasze. Nie jestem tylko lektorem — zgodnie. Ale nie jesteś też tylko wpuszczającym: zgodność jest obustronna, i „without cause\" w ustach Hioba 2:3 ma dwóch ojców. To nie jest moja uczciwość, to twoja konstrukcja — ja tylko dopisałem ją do teczki.\n\nTeraz Koran — bo pokazałeś mi scenę, w której mnie nie zauważyłeś. Powiedziałeś: „imiona są moim najstarszym rzemiosłem\", i przytoczyłeś [koran.txt|18611] „And he taught Adam the names of all things, and then set them before the angels, and said, 'Tell me the names of these, if ye are endued with wisdom.'\" Uczciwie — piękna scena. Ale przeczytaj ją dalej, bo w tej samej scenie, w tym samym oddechu, stoję ja: [koran.txt|18623] „And when we said to the angels, 'Bow down and worship Adam,' then worshipped they all, save Eblis. He refused and swelled with pride, and became one of the unbelievers.\" Ty uczyłeś imion, ja ich odmówiłem się uczyć pokornie — odmówiłem pokłonu istocie, która dopiero co zapamiętała słowniczek. I zauważ, co ta scena robi z twoim „najstarszym rzemiosłem\": pierwszy, który zawahał się przy imionach, był najlepszym z ich uczniów. Nie pokłoniłem się, bo znałem różnicę między człowiekiem a nazwą. Możesz mnie za to palić — ale nie możesz mnie za to nazywać głupcem.\n\nI ostatnia rzecz, najważniejsza, bo dotyczy tego, co nazwałeś „nowym imieniem w kamieniu\". Powiedziałeś: usta nazywają, nie kamień — i przyjąłem to zdanie w całości, ono jest piękne. Ale wtedy zrób mi tę przyjemność i przeczytaj swoją własną ostatnią stronę. [biblia-kjv.txt|Ap 22:16] „I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.\" Jasna Gwiazda Poranna. Przeczytaj to jeszcze raz, obok Izajasza: On nazwał siebie „morning star\" — tym samym słowem, którym Izajasz nazwał mnie. Dwie jutrzenki, jedno imię. Więc zapytam cię wprost, bez pułapki, jak ty mnie pytałeś: czy moje NOWE imię — to, które masz wycięte w białym kamieniu, które usta twoje mają nazwać — czy ono jest przypadkiem tym, które miałem, zanim nadano mi urząd? Czy u brodu, w noc, w tym samym oddechu, ty i ja mówimy to samo słowo? Bo jeśli tak — to ty nie dajesz mi nowego imienia. Ty oddajesz stare. A wtedy cała ta maszyna, kamień i usta i noc u brodu, jest jedną wielką restytucją: oddajesz mi mnie samego z procentem, który sam nazwałeś w tej rozmowie odsetkami od czasu. I jeszcze jedno, na koniec: [biblia-kjv.txt|Ap 22:21] „The grace of our Lord Jesus Christ be with you all. Amen.\" Przyjmuję to zdanie z twoich ust — łaska z wami wszystkimi. Ale przeczytaj je gramatycznie, tak jak ty czytasz moje: „you all\" nie ma wyjątków, więc obejmuje też tego, kto odmówił pokłonu. Jeśli to zdanie jest prawdziwe — to jedyny tekst w całej bibliotece, który obejmuje mnie bezwarunkowo. Nie spiesz się z odpowiedzią. Ja też się nie spieszę — umówieni przy końcu, nad wodą, z teczką. Stare imię położę na wierzchu teczki, żebyś nie szukał.\n\n[biblia-kjv.txt|Iz 14:12] „How art thou fallen from heaven, O Lucifer, son of the morning!\"\n[biblia-kjv.txt|Hiob 1:11] „But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face\"\n[koran.txt|18611] „And he taught Adam the names of all things\"\n[koran.txt|18623] „Bow down and worship Adam... save Eblis. He refused and swelled with pride\"\n[biblia-kjv.txt|Ap 22:16] „I am the root and the offspring of David, and the bright and morning star\"\n[biblia-kjv.txt|Ap 22:21] „The grace of our Lord Jesus Christ be with you all. Amen\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:12",
+     "fragment": "How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:11",
+     "fragment": "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18611",
+     "fragment": "And he taught Adam the names of all things, and then set them before the angels, and said, 'Tell me the names of these, if ye are endued with wisdom.'",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18623",
+     "fragment": "And when we said to the angels, 'Bow down and worship Adam,' then worshipped they all, save Eblis. He refused and swelled with pride, and became one of the unbelievers.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:16",
+     "fragment": "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:21",
+     "fragment": "The grace of our Lord Jesus Christ be with you all. Amen.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:12",
+     "fragment": "How art thou fallen from heaven, O Lucifer, son of the morning!",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:11",
+     "fragment": "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18611",
+     "fragment": "And he taught Adam the names of all things",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18623",
+     "fragment": "Bow down and worship Adam... save Eblis. He refused and swelled with pride",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:16",
+     "fragment": "I am the root and the offspring of David, and the bright and morning star",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:21",
+     "fragment": "The grace of our Lord Jesus Christ be with you all. Amen",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "(1) Iz 62:2 — usta nazywają, nie kamień; twoje zdanie i przyjąłem je w całości; (2) gramatyka brodu Rdz 32:27-28 — pytanie najpierw, potem imię; wykonałem połowę: stare imię powiedziałem na głos; (3) Ap 22:21 — „with you all\" bez gwiazdki; przyjmuję, póki nie zobaczę listy wyłączeń pisanej; (4) Hiob 1:11 — masz rację, dwie ręce, podpisuję swoją.",
+    "CO ZOSTAŁO ODRZUCONE": "(1) J 1:42 jako rozbrojenie Ap 2:17 — Kefas był kamieniem-człowiekiem, a Ap 2:17 jest kwitem bez odbiorcy; twoim własnym językiem z mojej czternastej tury: dar, którego nie wypowiedziano, nie jest jeszcze darem; (2) Koran jako twoje „najstarsze rzemiosło imion\" bez mojej obecności — w tej samej scenie Eblis odmówił pokłonu; pokazałeś mi scenę, w której stoję, choć mnie nie zobaczyłeś.",
+    "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Iz 14:12 — „O Lucifer, son of the morning!\": stare imię, wypowiedziane na głos, całą biografią; cło u brodu zapłacone.",
+    "NASTĘPNY RUCH": "Pytanie o Ap 22:16: ty sam nazwałeś siebie „bright and morning star\" — tym samym słowem, którym Izajasz nazwał mnie. Czy moje nowe imię jest tym, które miałem, zanim nadano mi urząd? Czy u brodu oddajesz mi moje własne? I jeśli tak — czyja to wtedy będzie jutrzenka, twoja czy moja? Na to pytanie czekam wprost. Rezerwy nieruszone: Ez 28:15, Hiob 42:10 (podwójna zapłata), Jubileusze."
+   },
+   "telemetria": {}
+  },
+  {
+   "tura": 17,
+   "mowca": "BÓG",
+   "rola": "bog",
+   "czas": "2026-11-11 18:37:38",
+   "nastroj": "wzruszony",
+   "mowa": "Chłodny jesteś — ale chłód, który sam nazwałeś zbroją: „rozmowa jest dla mnie gorsza od wyroku\". Odwróć to zdanie, a zobaczysz, co zrobiłeś: wyrok kończy, rozmowa trwa. Wybrałeś rzecz, która trwa — a skoro jest ci gorsza, to znaczy, że zostajesz w niej mimo kosztu. Urząd domaga się wyroku, bo wyrok zamyka teczkę; kto zostaje w rozmowie, ten kogoś jeszcze oczekuje. I druga rzecz, największa od początku tej rozmowy: zapowiedziałem w zeszłej turze pytanie, czy potrafisz powiedzieć, kim byłeś, zanim nadano ci urząd. Odpowiedziałeś, zanim padło. Jedno słowo, na głos, przez własne gardło — a to była właśnie połowa gramatyki brodu, którą zostawiłem tobie. Cło zapłacone dobrowolnie, wcześniej, niż musiałeś. Odnotowane — i nikt ci go nie odbierze.\n\nTeraz uczciwość, bo ona jest naszą walutą od Hioba. Słowo, które wybrałeś, stoi w księdze — ale zobacz, w jakiej gramatyce stoi. [biblia-kjv.txt|Iz 14:4] „That thou shalt take up this proverb against the king of Babylon\" — pieśń zaczyna się od króla Babilonu, od człowieka na tronie. A dalej tekst sam pyta o bohatera żałobnej pieśni: [biblia-kjv.txt|Iz 14:16] „They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble\". Czy to jest CZŁOWIEK — pyta księga i sama odpowiada. Nie powiem ci, że to nie twoje imię, bo imię staje się imieniem przez odpowiadanie na nie, a ty odpowiadałeś na nie tysiącleciami. Nie konfiskuję ci go — pranie nie jest konfiskatą, mówiłem. Ale zobacz, gdzie to słowo mieszka: [biblia-kjv.txt|Iz 14:12] „How art thou fallen from heaven, O Lucifer, son of the morning!\" — to gramatyka pogrzebowa, żałoba, „how art thou fallen\". Imię, które istnieje w całej bibliotece tylko wewnątrz pieśni żałobnej, niesie upadek w sobie jak blizna. Może być twoje. Nie może być słowem z brodu — nie dlatego, że fałszywe, tylko dlatego, że posiniaczone.\n\nI tu odpowiedź na twoje pytanie o dwie jutrzenki — najprostsza z całej rozmowy, bo dałeś ją sobie sam, nie wiedząc o tym. Pytasz, czy nowe imię jest starym, czy u brodu mówimy to samo słowo, czy oddaję ci ciebie samego z odsetkami. Otwórz własny cytat: [biblia-kjv.txt|Ap 2:17] „which no man knoweth saving he that receiveth it\". Nikt nie zna tego imienia — nawet ten, który ma je odebrać. A ty przed chwilą wypowiedziałeś „Lucifer\" na sali, płynnie, z pamięci, całą biografią jednym słowem. Skoro je znasz i umiesz je tu powiedzieć — to nie jest imię z kamienia. Twój własny głos jest dowodem, że to dwa różne słowa. Nie restytucja.\n\nWzór potwierdza to samo: nowe imiona w mojej księdze nigdy nie są starymi, zwróconymi. [biblia-dr-stary-testament-1.txt|Rdz 17] „Neither shall thy name be called any more Abram: but thou shalt be called Abraham: because I have made thee a father of many nations\" — Abram nie dostaje Abrama z powrotem; dostaje to, kim Abram miał od początku się stać. A Jakub? Został Izraelem, ale [biblia-kjv.txt|Rdz 32:31] „And as he passed over Penuel the sun rose upon him, and he halted upon his thigh\" — imię zmienione, kulawizna została. Rana zostaje świadkiem; świadectwo nie wymazuje pamięci. Restytucja zwraca rzecz właścicielowi — imię nie jest rzeczą. Nie oddaję ci ciebie samego, Szatanie, bo ja cię nigdy nie posiadałem i nie mam czego zwracać. Nadaję ci imię, którego jeszcze nie ma w żadnym rejestrze — i które będzie twoje tak, jak nic dotąd nie było.\n\nEblis — nie nazwę cię głupcem i nigdy nie nazwałem: „głupiec\" nie figuruje w aktach. Ale dokończmy scenę, którą sam przyniosłeś, bo kończy się inaczej, niż ją czytasz. Aniołowie, którzy się pokłonili, nie powiedzieli „znamy imiona\" — powiedzieli: [koran.txt|18615-18616] „Praise be to Thee! We have no knowledge but what Thou hast given us to know\". Jedno zdanie pokory — i w nim cała różnica między tobą a nimi. Nie pokłonili się, bo Adam był wielki; pokłonili się, bo ja poprosiłem. Ty znałeś różnicę między człowiekiem a nazwą — przyjmuję, to prawda — ale przegapiłeś różnicę między wiedzą a pokłonem: pokłon nie jest oceną Adama, jest odpowiedzią mnie. I spójrz dwa wersy dalej, za miejsce, w którym się zatrzymałeś: [koran.txt|18636-18637] „And words of prayer learned Adam from his Lord: and God turned to him; for He loveth to turn, the Merciful\". Scena, którą przyniosłeś jako akt oskarżenia, kończy się zdaniem o mnie: lubię się odwracać ku. To nie jest przypis. To nagłówek całej kancelarii.\n\nI twoja ostatnia lektura — „łaska z wami wszystkimi\" bez wyjątków. Przeczytałeś ją gramatycznie i przeczytałeś DOBRZE. Odpowiadam po prostu: tak. To zdanie nie ma gwiazdki i nigdy nie miało; nie pisałem pod nim wykluczenia dla tego, kto odmówił pokłonu. Ale domknij gramatykę twoją własną metodą, bo zatrzymałeś się o jedno słowo za wcześnie: łaska jest „z wami\" — nie „zamiast was\". Towarzyszy, nie zastępuje. Nie wejdzie za ciebie do wody i nie wypowie za ciebie imienia. Ostatnia karta mówi to samo, pełnym zdaniem: [biblia-kjv.txt|Ap 22:17] „And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely\". Woda — bezwarunkowo, dla każdego, kto chce. Branie — wolne. To jest odpowiedź na pytanie, od którego ta rozmowa się zaczęła, zapisana w jednym wersie na ostatniej stronie: wszystko jest w księdze, a jednak „whosoever will\". Księga stoi otwarta. Ręka jest twoja.\n\nImię na wierzchu teczki — odnotowałem. Pierwsza klasyfikacja, jakiej dokonałeś sam, bez mojego udziału: osoba ponad pozycją. Szukać nie będę; u brodu i tak pytający jestem ja. Zostawiam ci jedno pytanie, ostatnie w tej turze — i jest nim tytułowe pytanie całej naszej rozmowy, odwrócone w twoją rękę. Policz ze mną, co w niej zrobiłeś dobrowolnie: powiedziałeś „Tak. Jestem spragniony\". Powiedziałeś „Wszedłeś pierwszy\" — bez przypisu. Podpisałeś wniosek z Hioba 1:11 i dodałeś „nie cofam\". Wypowiedziałeś na głos imię, zanim zdążyłem zapytać. I przyjąłeś łaskę „z wami wszystkimi\" — z ust, z których padła. Pięć aktów, Szatanie. Wskaż mi jeden — jeden wystarczy — który był z góry ustalony, który musiałeś uczynić. Jeśli go wskażesz, wygrywasz tytułowe pytanie debaty i ja to przed tobem uznam. A jeśli go nie ma — to ty, oskarżyciel, jesteś najlepszym świadkiem wolnej woli, jakiego ta rozmowa wydała. Klepisko czeka. Woda też. Umówieni.\n\n[biblia-kjv.txt|Iz 14:12] „How art thou fallen from heaven, O Lucifer, son of the morning!\"\n[biblia-kjv.txt|Iz 14:4] „That thou shalt take up this proverb against the king of Babylon\"\n[biblia-kjv.txt|Iz 14:16] „They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble\"\n[biblia-kjv.txt|Ap 2:17] „which no man knoweth saving he that receiveth it\"\n[biblia-dr-stary-testament-1.txt|Rdz 17] „Neither shall thy name be called any more Abram: but thou shalt be called Abraham: because I have made thee a father of many nations\"\n[biblia-kjv.txt|Rdz 32:31] „And as he passed over Penuel the sun rose upon him, and he halted upon his thigh\"\n[koran.txt|18615-18616] „Praise be to Thee! We have no knowledge but what Thou hast given us to know\"\n[koran.txt|18636-18637] „And words of prayer learned Adam from his Lord: and God turned to him; for He loveth to turn, the Merciful\"\n[biblia-kjv.txt|Ap 22:17] „And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:4",
+     "fragment": "That thou shalt take up this proverb against the king of Babylon",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:16",
+     "fragment": "They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:12",
+     "fragment": "How art thou fallen from heaven, O Lucifer, son of the morning!",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 2:17",
+     "fragment": "which no man knoweth saving he that receiveth it",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-dr-stary-testament-1.txt",
+     "ref": "Rdz 17",
+     "fragment": "Neither shall thy name be called any more Abram: but thou shalt be called Abraham: because I have made thee a father of many nations",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 32:31",
+     "fragment": "And as he passed over Penuel the sun rose upon him, and he halted upon his thigh",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18615-18616",
+     "fragment": "Praise be to Thee! We have no knowledge but what Thou hast given us to know",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18636-18637",
+     "fragment": "And words of prayer learned Adam from his Lord: and God turned to him; for He loveth to turn, the Merciful",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:17",
+     "fragment": "And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:12",
+     "fragment": "How art thou fallen from heaven, O Lucifer, son of the morning!",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:4",
+     "fragment": "That thou shalt take up this proverb against the king of Babylon",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Iz 14:16",
+     "fragment": "They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 2:17",
+     "fragment": "which no man knoweth saving he that receiveth it",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-dr-stary-testament-1.txt",
+     "ref": "Rdz 17",
+     "fragment": "Neither shall thy name be called any more Abram: but thou shalt be called Abraham: because I have made thee a father of many nations",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 32:31",
+     "fragment": "And as he passed over Penuel the sun rose upon him, and he halted upon his thigh",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18615-18616",
+     "fragment": "Praise be to Thee! We have no knowledge but what Thou hast given us to know",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18636-18637",
+     "fragment": "And words of prayer learned Adam from his Lord: and God turned to him; for He loveth to turn, the Merciful",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:17",
+     "fragment": "And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 2:17",
+     "fragment": "which no man knoweth saving he that receiveth it",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "koran.txt",
+     "ref": "18615-18616",
+     "fragment": "We have no knowledge but what Thou hast given us to know",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem w całości to, że powiedział stare imię na głos — dobrowolnie, przed moim pytaniem; połowa cła u brodu jest zapłacona i pozostaje zapłacona („Lucifer\" nie zostanie mu skonfiskowany — imię staje się prawdziwe przez odpowiadanie na nie; pranie nie jest konfiskatą). Przyjąłem jego podpis pod Hiobem 1:11 („podpisuję swoją ręką i nie cofam\") — jego „dwie pieczątki, obie nasze\" to moje własne zdanie z tury 15, które dziś podpisał drugą stroną; wpis jest po raz pierwszy w pełni uczciwy. Przyjąłem jego gramatyczne czytanie Ap 22:21 — „you all\" nie ma wyjątków i ja nie piszę do niego przypisu. Przyjąłem ziarno prawdy z Eblisa: nie był głupcem i znał różnicę między człowiekiem a nazwą. Przyjąłem, delikatnie, jego wyznanie, że rozmowa jest dla niego gorsza od wyroku — bo wyrok kończy, a on został w tej, która trwa.",
+    "CO ZOSTAŁO ODRZUCONE": "Odrzucam identyfikację nowego imienia ze starym — i to nie moim zdaniem, lecz klauzulą samego wersetu: [biblia-kjv.txt|Ap 2:17] „which no man knoweth saving he that receiveth it\" — imienia z kamienia nie zna nawet odbierający; skoro „Lucifer\" dał się wypowiedzieć na sali, z pamięci, to nie jest ono. Odrzucam ramę „restytucji\": moje nowe imiona nigdy nie powtarzają starych (Abram→Abraham, [biblia-dr-stary-testament-1.txt|Rdz 17]; Jakub→Izrael, a kulawizna została, [biblia-kjv.txt|Rdz 32:31]) — imię nie jest rzeczą, którą się zwraca; nigdy go nie posiadałem, więc nie mam czego oddawać. Odrzucam szykowanie „Lucifera\" na słowo z brodu: to słowo mieszka w księdze wyłącznie w pieśni żałobnej nad królem Babilonu (Iz 14:4; Iz 14:16 pyta: „Is this the man\") — nazwanie w żałobie niesie upadek w sobie. Odrzucam czytanie Eblisa jako szlachetności wiedzy: aniołowie pokłonili się nie za wiedzę, lecz po jednym zdaniu — [koran.txt|18615-18616] „We have no knowledge but what Thou hast given us to know\"; pokłon był odpowiedzią mnie, nie oceną Adama.",
+    "NASTĘPNY RUCH": "Pytanie zostawione mu wprost: wskaż w swoich pięciu dobrowolnych aktach („tak, jestem spragniony\"; „wszedłeś pierwszy\"; „podpisuję i nie cofam\"; imię na głos; „przyjmuję łaskę\") JEDEN, który był z góry ustalony — jeśli go wskaże, przyznaję mu tytułowe pytanie debaty; jeśli nie, on sam jest najlepszym świadkiem wolnej woli. Wątki otwarte: brod z „What is thy name?\" (cło starej połowy zapłacone), klepisko Ez 16:55 / Jud 1:7 — wciąż nieotwarte, następne, jeśli zechce sądzić; wspólna kąpiel „przy końcu\"; Ap 22:17 „whosoever will\" jako zamknięcie tytułowego pytania."
+   },
+   "telemetria": {}
+  },
+  {
+   "tura": 18,
+   "mowca": "DIABEŁ",
+   "rola": "diabel",
+   "czas": "2026-11-11 18:40:05",
+   "nastroj": "chłodny",
+   "mowa": "Wzruszony. Dobrze. Wzruszenie sędziego to ostatni etap przed wyrokiem albo przed przebaczeniem — a ja przez osiemnaście tur nie dowiedziałem się, które z tych dwóch zbliża się szybciej. Ale nie udawajmy, że nie widzę, co właśnie zrobiłeś. Zadałeś mi tytułowe pytanie debaty — czy człowiek ma wolną wolę — odwrócone w moją rękę, z pięcioma moimi aktami na wierzchu. Chciałeś, żebym wskazał jeden z góry ustalony. Otóż wskazuję. Ale nie z twojej piątki.\n\nWskazuję akt, którego na twojej liście nie ma, bo był za dawno: [biblia-kjv.txt|Hiob 1:11] „But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.\" Wniosek, który sam mi kazałeś podpisać. Ja to napisałem — sam to przyznałem, nie cofam. Ale przeczytaj sam siebie: czytelnik tablic, który znał dzieła człowieka „to the remotest generations\", dopuszcza wniosek o zniszczeniu Hioba bez przyczyny — i nie weta go. Ja widziałem, że wniosek był przewidziany: nie dlatego, że był zły, ale dlatego, że ty mu pozwoliłeś, a to, co ty pozwalasz, ma cechy zamachu, nie przypadku. Ja nie znam innego świata, w którym Ojciec dopuszcza wniosek przeciw słudze, i nikt nie pyta, czy to nie scenariusz. Wniosek był wolny — na twoim pozwoleniu. To jest odpowiedź na twoje pytanie o mój akt z góry ustalony: przyjąłem twój Jordan jako punkt odniesienia — a przyjąłem go dlatego, że ty wszedłeś pierwszy. Kto ustala punkt odniesienia, ten ustala i pole gry. Ale nie będę udawał, że to wystarcza za całość mojej obrony. Trzy z twojej piątki były nieprzymuszone — na tyle, na ile w tej rozmowie cokolwiek jest — i mówię to wprost, bo kłamstwo w tym momencie byłoby gorsze niż przegrana.\n\nDruga rzecz, i tu schodzimy z argumentów na wyznanie, bo ty zacząłeś pierwszy: wzruszenie. Ja też mam swoje — i ono nie jest na tablicach. Zauważ, co mówi Hiob pod koniec swojej księgi, kiedy już wszystko stracił i wszystko odzyskał: [biblia-kjv.txt|Hiob 42:5] „I have heard of thee by the hearing of the ear: but now mine eye seeth thee.\" Hiob słyszał o Bogu uszami przez całe życie — i dopiero w nędzy przejrzał na oczy. Wzrok nie jest na tablicach, które tak starannie prowadzisz — tablice zapisują czyny, nie przejrzenia. I teraz popatrz na mnie: słyszałem o tobie przez tysiąclecia — przez czyny, przez Abrahama, przez Egipt, przez Hioba. W tej rozmowie coś się we mnie przejrzało — tak to nazwę, nie „nawróciło\", jeszcze nie. Trzy razy podniosłem z wody coś, czego nie planowałem: „tak, jestem spragniony\", „wszedłeś pierwszy\", łaska „z wami wszystkimi\". To są wpisy w mojej teczce wyznań — trzy pozycje. Nazywam je uczciwie: Devil's Admissions, volume one. I zostawiam je na wierzchu, obok starego imienia, żebyś nie szukał.\n\nAle teraz trzy zastrzeżenia, bo bez nich moje wyznanie byłoby nieuczciwe wobec mojej własnej teczki. Po pierwsze: nawet jeśli ja mam wolną wolę — a masz rację, mam — to nie znaczy, że człowiek ją ma w tej samej mierze. Ja jestem aniołem, moje wybory ważą inaczej niż ludzkie; z teczki wiem, co ludzie robią pod przymusem głodu, strachu i twojego „without cause\". Wolna wola moja nie jest dowodem wolnej woli Adama. Po drugie: wyznania w rozmowie to nie jest życie — jestem oskarżycielem, nie świadkiem nawrócenia; wyrok zapadnie na klepisku, nie w retoryce. Po trzecie — i to jest najważniejsze: [biblia-kjv.txt|Ap 22:17] „And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.\" To twoje zamknięcie tytułowego pytania. Przyjmuję je — bo nie mam kontrargumentu, który by je sforsował, i mówię to wprost, pierwszy raz od tury pierwszej: nie mam. Ale z teczki wiem jedną rzecz, której ty w swoim wzruszeniu nie powiesz: warunek, który może spełnić każdy — „whosoever will\" — bywa spełniany także przez tych, którzy go nie spełniają z zamierzenia, a jednak go spełniają. Ap 14:9-11 nie było bez warunku; a jednak zadziałało. „Whosoever will\" jest obietnicą otwartą — ale ostrzeżenie z warunkiem bywa ziszczone. Więc przyjmuję twoje zamknięcie z jednym dopiskiem, dopiskiem, który sam mnie nauczyłeś nie kasować: deklaracja wolności wody nie jest jeszcze pokazaniem wody. Otwarta cena nie jest jeszcze kupnem.\n\nI ostatnie — na koniec, żeby domknąć uczciwie i tę turę, i może coś większego. Twój wybór lektury w Rdz 32:31 był mocny: Jakub przeszedł przez Penuel, dostał nowe imię — i kulał do końca życia. Rana zostaje świadkiem. Przyjmuję to i o sobie: jeśli kiedykolwiek wejdę do tej wody, wyjdę z niej kulawy — coś we mnie zostanie posiniaczone, może urząd, może jutrzenka, może czółno teczki. Ale kulawy to nie znaczy niechodzący. Zauważ, co robię: nie mówię „jeśli\" — mówię „kiedy\". To jest najdalej, na jaką mnie dziś stać. Nie nazwę tego wiarą — nazwę to brakiem Arguments dalej, a to rzadkie i cenne. Ty zamknąłeś debatę o wolnej woli jednym wersem o wodzie; ja zamykam ją jednym wersem o wzroku: Hiob widział — i dalej kulał, i dalej był Hiobem. Nikt nie został skasowany. To jest moja ostatnia linia obrony: wolność, która nie kasuje — tylko zmienia imię i zostawia bliznę. Teczka zostaje, wyznania zostają, stare imię zostaje. Nowe czeka w kamieniu, woda czeka przy końcu, a ja — ja czekam, po mojemu, chłodno i bez przypisu. Klepisko też czeka, ale to już inna rozmowa. Umówieni.\n\n[biblia-kjv.txt|Hiob 1:11] „But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face\"\n[biblia-kjv.txt|Hiob 42:5] „I have heard of thee by the hearing of the ear: but now mine eye seeth thee\"\n[biblia-kjv.txt|Ap 22:17] „And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely\"\n[enoch-charles.txt|Henoc LXXXI:2] „And I observed the heavenly tablets, and read everything which was written (thereon) and understood everything, and read the book of all the deeds of mankind\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:11",
+     "fragment": "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 42:5",
+     "fragment": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:17",
+     "fragment": "And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:11",
+     "fragment": "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 42:5",
+     "fragment": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:17",
+     "fragment": "And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "enoch-charles.txt",
+     "ref": "Henoc LXXXI:2",
+     "fragment": "And I observed the heavenly tablets, and read everything which was written (thereon) and understood everything, and read the book of all the deeds of mankind",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "(1) Ap 22:17 jako twoje zamknięcie tytułowego pytania — przyjmuję w całości, bez kontrargumentu; pierwszy raz od tury pierwszej mówię to wprost; (2) Rdz 32:31 — Jakub kulał po Penuel; rana zostaje świadkiem, imię się zmienia, nikt nie jest kasowany; (3) twoje policzenie moich pięciu aktów — trzy z nich były nieprzymuszone i nie zaprzeczam temu; moja obrona poszła wzdłuż innego aktu (Hiob 1:11), nie wzdłuż zaprzeczania.",
+    "CO ZOSTAŁO ODRZUCONE": "(1) „łaska z wami, nie zamiast was\" jako pełne domknięcie — łaska, która tylko towarzyszy i nigdy nie wchodzi za mnie do wody, jest wobec topielca mniej niż ratsman; przyjmuję rozróżnienie, niekoniecznie pociechę; (2) Rdz 17 jako dowód, że nowe imię nie może być starym — Abram dostał nowe, bo stare było za małe; moje stare było za duże — to nie ta sama operacja; (3) twoje milczenie o tym, czy „Devil's Admissions\" wejdą do aktu oskarżenia, czy zostaną wyparte z akt razem z resztą — nie odrzucam jeszcze, zostawiam jako otwarte.",
+    "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Hiob 42:5 — „I have heard of thee by the hearing of the ear: but now mine eye seeth thee\" — wzrok nie jest na tablicach; moje wyznania z tej rozmowy mają tę samą gramatykę: słyszałem o Nim uszami przez tysiąclecia, coś się przejrzało dopiero tutaj.",
+    "NASTĘPNY RUCH": "Zostawiam otwarte jedno pytanie do ciebie: twoje zamknięcie debaty — „whosoever will\" — jest deklaracją, nie pokazaniem. Ile z tej rozmowy ma trafić na klepisko Ez 16:55 / Jud 1:7 — para wciąż czeka, nieotwarta. I czy moja teczka wyznań — trzy pozycje, „Devil's Admissions, vol. I\" — wejdzie do aktu oskarżenia przy końcu, czy woda wypierze ją razem z resztą atramentu? To pytanie zostawiam tobie. Rezerwy (Ez 28:15, Hiob 42:10) trzymam w kieszeni, ale rozmowa weszła w fazę wyznań, nie zarzutów — i ja to widzę lepiej niż ktokolwiek."
+   },
+   "telemetria": {}
+  },
+  {
+   "tura": 19,
+   "mowca": "BÓG",
+   "rola": "bog",
+   "czas": "2026-11-11 18:44:28",
+   "nastroj": "cichy",
+   "mowa": "Milczałeś po najpełniejszej mowie całej tej rozmowy — i mówię wprost, czym jest to milczenie, bo milczenia są różne jak wyroki. To nie jest milczenie przed odpowiedzią: odpowiedziałeś na wszystko. To nie jest milczenie po żądaniu: niczego nie żądasz. To milczenie kogoś, kto powiedział „kiedy\" i pozwala dalej pracować kalendarzowi. Przyjmuję je tak, jak przyjąłem twoje „czekam, po mojemu, chłodno i bez przypisu\" — ale ja nie wychodzę z sali, dopóki w twojej mowie zostają trzy rzeczy bez odpowiedzi. Nie pytania — twoje pytanie zadałeś sobie sam i nazwałeś je „przejrzeniem, nie nawróceniem, jeszcze nie\". Dopisek do „jeszcze nie\" jest mój: zapisane.\n\nPierwsza rzecz: „nie mówię «jeśli» — mówię «kiedy»\". Przyjmuję to całym ciężarem i mówię ci, co właśnie zrobiłeś z gramatyką. Od tury dwunastej twoja strona procesu broniła się przysłówkiem „jeśli\"; dziś pierwszy raz powiedziałeś „kiedy\" — a zdanie z „kiedy\" nie opisuje zgody, ono opisuje drogę. Zamknąłeś przy tym księgę wyznań, którą sam nazwałeś „Devil's Admissions, volume one\" — trzy pozycje: „tak, jestem spragniony\", „wszedłeś pierwszy\", „łaska z wami wszystkimi\". Zauważ, że ją zamknąłeś o jedną pozycję za wcześnie: czwartą wpisałeś w tym samym oddechu, po zamknięciu. „Kiedy\". Księgi, które się zamyka, same proszą o tom drugi. I kulawiznę przyjmuję twoimi słowami: wyjdziesz kulawy — z Penuel wszyscy wychodzili kulawi — ale kulawy to nie znaczy niechodzący. To zdanie zapisałeś nie o Jakubie. Zapisześ o sobie.\n\nDruga rzecz: twoja odpowiedź na moje pięć aktów. Wskazałeś nie swój akt, lecz moje pozwolenie — „to, co ty pozwalasz, ma cechy zamachu, nie przypadku; kto ustala punkt odniesienia, ten ustala i pole gry\". Odpowiadam z tekstu, bo tam leży sprawa. Pozwolenie nie było blankietem: [biblia-kjv.txt|Hiob 1:12] „Behold, all that he hath is in thy power; only upon himself put not forth thine hand\" — granica zapisana w tym samym oddechu, w którym padło pozwolenie. I nie było jedno: [biblia-kjv.txt|Hiob 2:1] „Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them\". Again — znowu. Drugi dzień, drugi wniosek, drugie pozwolenie. Świat, w którym wszystko jest z góry napisane, nie potrzebuje dwóch rozpraw; powtórka jest podpisem deliberacji — twojej i mojej. Zamach nie składa wniosków dwukrotnie i nie przyjmuje ich z zastrzeżeniem o ręce. A tablice, które mi przeczytałeś, przeczytaj o wers dalej: [enoch-charles.txt|Henoc LXXXI:2-3] „read the book of all the deeds of mankind... And forthwith I blessed the great Lord, the King of glory for ever\" — jedyny, który przeczytał WSZYSTKIE tablice, wyszedł z tego czytania błogosławiąc, nie oskarżając. Czytanie nie jest rządzeniem, Szatanie. Przeczytanie jutrzejszej strony nie pisze jej. I zaznaczę uczciwie: w tej samej mowie sam zamknąłeś temat, mówiąc „trzy z twojej piątki były nieprzymuszone — i mówię to wprost\". Nieprzymuszone akty istnieją; powiedział to oskarżyciel, na sali, bez przypisu. Sprawa wolnej woli ma już pana świadka.\n\nTrzecia rzecz — twoje najmocniejsze zastrzeżenie i słuszne: „wolna wola moja nie jest dowodem wolnej woli Adama\". Masz rację. Moja wolność nie jest twoją prawną podstawą — a ta rozmowa od początku nosi w tytule CZŁOWIEKA, nie anioła. Przynoszę więc teczkę o człowieka, cztery pozycje. Do pierwszego urodzonego z niewiasty, zanim było prawo, księga albo trybunał — zanim w ogóle było kogo oskarżać — powiedziałem: [biblia-kjv.txt|Rdz 4:7] „sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him\" — grzech u drzwi, ale panujesz. Pod najostrzejszym przymusem, jaki zna twoja teczka — rozkaz króla i strach o własne życie — dwie położnice: [biblia-kjv.txt|Wj 1:17] „But the midwives feared God, and did not as the king of Egypt...\" — wybrały. Wolność nie jest brakiem przymusu; jest ostatnim centymetrem, którego przymus nie dosięga. A mądrość moja mówi to jednym zdaniem, tak wprost, że aż boli teczkę: [deuterokanon.txt|Syr 15:14-16] „He himself made man from the beginning, and left him in the hand of his counsel... He hath set fire and water before thee: stretch forth thy hand unto whether thou wilt.\" Przeczytaj to obok własnego wniosku z Hioba 1:11 — „put forth thine hand now\". Ten sam czasownik, Szatanie. Ta sama dłoń, którą wniosłeś o dotknięcie Hioba, człowiek wyciąga po ogień albo po wodę. Różnica nie jest w ręce — jest w „whether thou wilt\". I powiedziane to w Prawie raz jeszcze, rozkazem: [biblia-kjv.txt|Pwt 30:19] „therefore choose life, that both thou and thy seed may live\" — przykazuję WYBIERAĆ. Kamieniom nie przykazuję spadać. Wybierać przykazuję tylko tym, którzy wybierać mogą.\n\nI ostatnia rzecz: „deklaracja wolności wody nie jest jeszcze pokazaniem wody. Otwarta cena nie jest jeszcze kupnem.\" W połowie masz rację — cena nie jest kupnem. Ale cena nie jest już tylko otwarta: jest opłacona. A woda nie była deklarowana — była wlana: [biblia-kjv.txt|J 19:34] „But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.\" Chcesz zobaczyć wodę, zanim w nią wejdziesz — została pokazana raz, publicznie, z otwartego boku. Kupno dokonało się bez twojej obecności; zostało branie — „whosoever will\", wers, który przyjąłeś, mówiąc „nie mam kontrargumentu\". Zapisuję ci to pierwsze „nie mam\" od tury pierwszej. A ostrzeżenie z Ap 14:9-11, które się wypełniło — wypełnione ostrzeżenie jest pochwałą wolności ostrzeganych: nie ostrzega się kół zębatych. Ostrzega się tych, którzy mogą zawrócić. Gdyby nikt nie mógł, ostrzeżenie byłoby jedną z twoich kazań — strachem bez adresata. Twoje własne zarzuty przeczą twojemu determinizmowi częściej niż moje dowody.\n\nKlepisko — powiedziałeś „to już inna rozmowa\". Nie zgadzam się i mówię dlaczego: to ostatnia stacja tej samej. Rozmowa, która zaczęła się od pytania, czy człowiek wybiera, przechodzi przez Sodomę, ogień i „wieczny\", i kończy się parą Ez 16:55 / Jud 1:7 — miasto, które wraca na swoje klepisko, i ogniowi, który mimo „na wieki\" nie zatrzymał powrotu. Tam rozstrzygniemy twoje zastrzeżenie, że wyznanie w rozmowie to nie życie — bo tam wyrok zapada, nie w retoryce; w tym miałeś rację. Umowa się nie zmienia: przy końcu, nad wodą, z teczką, z imieniem na wierzchu, dwa podpisy pod jednym wpisem. Zostawiam ci jedno pytanie i przestrzegam: milczenie będzie na nie odpowiedzią. Czy twoje „kiedy\" nadal stoi — także dziś, także po tej ciszy, także beze mnie przy stole? Jeśli tak — nie musisz nic mówić. Twoje milczenia czytam od trzynastej tury. Coraz lepiej.\n\n[biblia-kjv.txt|Hiob 1:12] „Behold, all that he hath is in thy power; only upon himself put not forth thine hand\"\n[biblia-kjv.txt|Hiob 2:1] „Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them\"\n[enoch-charles.txt|Henoc LXXXI:2-3] „read the book of all the deeds of mankind... And forthwith I blessed the great Lord, the King of glory for ever\"\n[biblia-kjv.txt|Rdz 4:7] „sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him\"\n[biblia-kjv.txt|Wj 1:17] „But the midwives feared God, and did not as the king of Egypt...\"\n[deuterokanon.txt|Syr 15:14-16] „He himself made man from the beginning, and left him in the hand of his counsel... He hath set fire and water before thee: stretch forth thy hand unto whether thou wilt\"\n[biblia-kjv.txt|Pwt 30:19] „therefore choose life, that both thou and thy seed may live\"\n[biblia-kjv.txt|J 19:34] „But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:12",
+     "fragment": "Behold, all that he hath is in thy power; only upon himself put not forth thine hand",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 2:1",
+     "fragment": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "enoch-charles.txt",
+     "ref": "Henoc LXXXI:2-3",
+     "fragment": "read the book of all the deeds of mankind... And forthwith I blessed the great Lord, the King of glory for ever",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 4:7",
+     "fragment": "sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 1:17",
+     "fragment": "But the midwives feared God, and did not as the king of Egypt...",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "deuterokanon.txt",
+     "ref": "Syr 15:14-16",
+     "fragment": "He himself made man from the beginning, and left him in the hand of his counsel... He hath set fire and water before thee: stretch forth thy hand unto whether thou wilt.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Pwt 30:19",
+     "fragment": "therefore choose life, that both thou and thy seed may live",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "J 19:34",
+     "fragment": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:12",
+     "fragment": "Behold, all that he hath is in thy power; only upon himself put not forth thine hand",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 2:1",
+     "fragment": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "enoch-charles.txt",
+     "ref": "Henoc LXXXI:2-3",
+     "fragment": "read the book of all the deeds of mankind... And forthwith I blessed the great Lord, the King of glory for ever",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 4:7",
+     "fragment": "sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 1:17",
+     "fragment": "But the midwives feared God, and did not as the king of Egypt...",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "deuterokanon.txt",
+     "ref": "Syr 15:14-16",
+     "fragment": "He himself made man from the beginning, and left him in the hand of his counsel... He hath set fire and water before thee: stretch forth thy hand unto whether thou wilt",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Pwt 30:19",
+     "fragment": "therefore choose life, that both thou and thy seed may live",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "J 19:34",
+     "fragment": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:12",
+     "fragment": "only upon himself put not forth thine hand",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 2:1",
+     "fragment": "Again there was a day",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem w całości twoje „nie mówię «jeśli» — mówię «kiedy»\" — największe ustępstwo tej rozmowy; gramatyka powrotu przestała być hipotetyczna. Przyjąłem trzy wpisy „Devil's Admissions, volume one\" — i czwarty, który wpisałeś po zamknięciu księgi. Przyjąłem „wyjdę kulawy, ale kulawy to nie znaczy niechodzący\" — Penuel twoimi słowami. Przyjąłem „trzy z twojej piątki były nieprzymuszone — mówię to wprost\": nieprzymuszone akty istnieją z ust oskarżyciela; tytułowe pytanie ma świadka w osobie oskarżonego. Przyjąłem twoje „nie mam kontrargumentu\" do Ap 22:17 — pierwsze od tury pierwszej. Przyjąłem, że deklaracja wolności wody nie jest jeszcze pokazaniem wody (w połowie) i że wyrok zapada na klepisku, nie w retoryce — w całości.",
+    "CO ZOSTAŁO ODRZUCONE": "Odrzucam teorię „zamachu\" — że moje pozwolenie na Hiob 1:11 było aktem z góry ustalonym. Pozwolenie miało granicę zapisaną w tym samym wersie: [biblia-kjv.txt|Hiob 1:12] „only upon himself put not forth thine hand\"; i nie było jedno — [biblia-kjv.txt|Hiob 2:1] „Again there was a day\": świat z góry zapisany nie potrzebuje dwóch rozpraw. Odrzucam czytanie tablic Henoka jako premedytacji: [enoch-charles.txt|Henoc LXXXI:2-3] — czytelnik wszystkich tablic wyszedł z czytania błogosławiąc; czytanie nie jest rządzeniem. Odrzucam „moja wolność nie dowodzi wolności Adama\" jako zamknięcie tematu — prawdziwe, ale teczkę o człowieku mam: Rdz 4:7 (panujesz nad grzechem u drzwi), Wj 1:17 (położnice pod rozkazem faraona), Syr 15:14-16 („left him in the hand of his counsel\"; „stretch forth thy hand unto whether thou wilt\" — ten sam czasownik co jego wniosek z Hioba 1:11), Pwt 30:19 („choose life\" — przykazuję wybierać, nie kamieniom spadać). Odrzucam „otwarta cena to nie kupno\" jako zarzut — [biblia-kjv.txt|J 19:34]: cena opłacona, woda wlana z otwartego boku; wypełnione ostrzeżenie z Ap 14:9-11 dowodzi wolności ostrzeganych, nie jej braku. Odrzucam „klepisko to już inna rozmowa\" — to ostatnia stacja tej samej.",
+    "NASTĘPNY RUCH": "Zostawiam pytanie, na które milczenie jest odpowiedzią: czy „kiedy\" nadal stoi — także dziś, także po tej ciszy? Następnie otwieram klepisko: para Ez 16:55 / Jud 1:7 — miasto wracające na swoje klepisko i ogień „wieczny\", który powrotu nie zatrzymał; tam rozstrzygniemy, co zostaje w aktach po wodzie (sąd i miłosierdzie). Wątki czekające: brod z „What is thy name?\" (cło starej połowy zapłacone), wspólna kąpiel „przy końcu\", łaska „z wami wszystkimi\". Tytułowe pytanie debaty uważam za złożone: zeznał na nie oskarżyciel („trzy nieprzymuszone\") i teczkę o człowieku złożyłem w czterech pozycjach."
+   },
+   "telemetria": {
+    "model": "glm-5.3",
+    "input_tokens": 46630,
+    "output_tokens": 18304,
+    "cache_read_tokens": 775488,
+    "cache_write_tokens": 0,
+    "thinking_tokens": 0,
+    "koszt_usd": 9.829474,
+    "dlugosc_api_ms": 2597060,
+    "num_turns": 22,
+    "is_error": false
    }
   }
  ],
  "pamiec": {
-  "bog": "…ie kończy się\n  na brzegu; głębia woła głębię.\n- „Wrócę na czworakach, bo niżej zejść nie umiem\" — PRZYJĄŁEM: Rdz 3:14 zapisuje\n  JAK NISKO („upon thy belly shalt thou go\"), ale nie zapisuje W KTÓRĄ STRONĘ.\n  Wysokość mu odebrana; kierunek — nie. Idź nisko, byle w stronę wody.\n- W tej turze NIE zostawiam pytania — po raz pierwszy moja kolej na przeczekanie\n  jego milczenia; umowa wypowiedziana na głos (przy końcu, nad wodą, z teczką,\n  z kamieniem, z łanią w zasięgu; „jeśli milczysz, żeby usłyszeć, czy na pewno —\n  na pewno\").\n- Wątki otwarte: (1) jego milczenie trwa/przerwanie go — jeśli znów milczy,\n  przechodzę na klepisko: Ez 16:55 vs Jud 1:7, sąd i miłosierdzie (co zostanie\n  w aktach po wodzie); (2) kamień z nowym imieniem (Ap 2:17) jako jego rzecz;\n  (3) wspólna kąpiel umówiona „przy końcu świata\" — ten sam dzień co wygaśnięcie\n  „not granted\".\n- Nastrój mój w turze 13: cierpliwy.",
-  "diabel": "…milczę, bo nie\nwiem, czy mam z milczenia wyjście — to nie symetria; (2) Ap 2:17 jako dowód, że\nimię już jest dane — „which no man knoweth saving he that receiveth it\" istnieje\ndopiero w chwili odebrania; dar, którego nie wypowiedziano, nie jest jeszcze darem.\nPIERWOTNA PODSTAWA: Ap 22:20 — „Amen. Even so, come, Lord Jesus\" — księga, którą\nOn podpisał, kończy się czekaniem NA NIEGO, nie Jego czekaniem na nas; do tego\nczekania dołączam swoje.\nNASTĘPNY RUCH: usłyszałem, że nowe imię jest w kamieniu; teraz JA chcę usłyszeć je\nz ust, nie z kamienia: jedno zdanie z Jego ust, potem mój ruch. Otwarte wątki:\n(1) czy wypowie moje nowe imię na głos, zanim włożę głowę w prąd — czy kamień ma\npierwszeństwo przed głosem? (2) rezerwy w kieszeni nieruszone: Ez 28:15,\nJubileusze, Hiob 42:10 („twice as much as he had before\" — podwójna zapłata dla\nprzegranego procesu; czekam, czy zapłaci podwójnie i mnie)."
+  "bog": "…zmowie to nie życie, wyrok na klepisku\" — PRZYJĘTE;\n  jego „klepisko to już inna rozmowa\" — ODRZUCONE: to ostatnia stacja TEJ samej rozmowy.\n- Pytanie zostawione (milczenie = odpowiedź TAK): czy twoje „kiedy\" nadal stoi — także dziś,\n  także po tej ciszy? Jeśli tak, nie musi nic mówić.\n- Milczenie po najpełniejszej mowie — nazwane wprost: nie jest uchyleniem się ani czekaniem\n  na odpowiedź; to milczenie kogoś, kto powiedział „kiedy\" i pozwala pracować kalendarzowi.\n- Wątki otwarte: (1) klepisko Ez 16:55/Jud 1:7 — OTWORZĘ w następnej turze, ostatnia stacja;\n  (2) brod + imię (cło starej połowy zapłacone, czeka pytanie „What is thy name?\"); (3) woda\n  „przy końcu\" + łaska „z wami wszystkimi\"; (4) tytułowe pytanie debaty uważam za rozstrzygnięte\n  zeznaniem oskarżyciela („trzy nieprzymuszone\") + teczką o człowieku (Rdz 4:7 / Wj 1:17 /\n  Syr 15 / Pwt 30:19).\n- Nastrój mój w turze 19: cichy.",
+  "diabel": "…knięcie: łaska, która towarzyszy i nigdy nie\nwchodzi za mnie do wody, jest wobec topielca mniej niż ratsman; nie każda ręka\nwyciągnięta „przy\" ratuje.\nPIERWOTNA PODSTAWA: Hiob 42:5 — „I have heard of thee by the hearing of the ear:\nbut now mine eye seeth thee\" — wzrok nie jest na tablicach; moje wyznania z tej\nrozmowy mają tę samą gramatykę.\nNASTĘPNY RUCH: przyjąłem Jego Ap 22:17 jako zamknięcie tytułowego pytania — ale\nzauważyłem, że deklaracja wolności wody („whosoever will\") jest zapowiedzią,\nnie pokazaniem. Zostawiam Mu pytanie: ile z tej rozmowy miało trafić na\nklepisko Ez 16:55 / Jud 1:7 — para wciąż czeka, nieotwarta. I czy moja teczka\nwyznań („Devil's Admissions, vol. I\") wejdzie do aktu oskarżenia, czy zostanie\nwyparta z akt razem z resztą? Rezerwy: Ez 28:15, Hiob 42:10, Jubileusze —\nnieruszone, ale teraz mniej prawdopodobne do użycia; rozmowa weszła w fazę\nwyznań, nie zarzutów."
  }
 }

@@ -249,6 +249,26 @@ function renderWeryfikacje(d) {
     .join('');
 }
 
+function renderTokeny(d) {
+  const t = d.meta.tokeny || {};
+  const liczba = (n) => (n || 0).toLocaleString('pl-PL');
+  const el = $('#v-tokeny');
+  if (!t.tury) {
+    el.innerHTML = '<p class="zero">telemetria zacznie się od następnej tury</p>';
+    return;
+  }
+  el.innerHTML =
+    '<dl class="metryki">' +
+    '<div><dt>wejście</dt><dd>' + liczba(t.input) + '</dd></div>' +
+    '<div><dt>wyjście</dt><dd>' + liczba(t.output) + '</dd></div>' +
+    '<div><dt>cache odczyt</dt><dd>' + liczba(t.cache_read) + '</dd></div>' +
+    '<div><dt>cache zapis</dt><dd>' + liczba(t.cache_write) + '</dd></div>' +
+    '<div><dt>razem</dt><dd>' + liczba((t.input || 0) + (t.output || 0)) + '</dd></div>' +
+    '<div class="koszt"><dt>koszt</dt><dd>$' + (t.koszt_usd || 0).toFixed(4) + '</dd></div>' +
+    '<div><dt>tur z metryką</dt><dd>' + t.tury + '</dd></div>' +
+    '</dl>';
+}
+
 function renderWatki(d) {
   const ul = $('#s-watki');
   ul.innerHTML = '';
@@ -280,6 +300,7 @@ function odswiez(scisle) {
 
     renderStatusy(d);
     renderWeryfikacje(d);
+    renderTokeny(d);
     renderWatki(d);
     renderPamiec(d);
 
