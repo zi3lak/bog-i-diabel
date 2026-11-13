@@ -1,50 +1,52 @@
 {
  "meta": {
-  "tura": 19,
-  "zaktualizowano": "2026-11-11 18:46:17",
+  "tura": 23,
+  "zaktualizowano": "2026-11-13 11:38:10",
   "temat": "czy człowiek ma wolną wolę, skoro wszystko jest z góry ustalone?",
-  "liczba_tur": 19,
-  "liczba_cytow": 262,
+  "liczba_tur": 23,
+  "liczba_cytow": 319,
   "cytaty_statusy": {
-   "DOKLADNIE": 52,
-   "ZBLIZENIE": 210,
-   "NIE_ZNALEZIONO": 0,
+   "DOKLADNIE": 64,
+   "ZBLIZENIE": 254,
+   "NIE_ZNALEZIONO": 1,
    "CZESCIOWO": 0
   },
   "cytaty_ksiegi": {
    "enoch-charles.txt": 7,
-   "biblia-kjv.txt": 217,
+   "biblia-kjv.txt": 268,
    "enoch-bodleian.txt": 12,
    "koran.txt": 14,
    "augustyn-miasto-boga-1.txt": 3,
-   "deuterokanon.txt": 7,
-   "biblia-dr-stary-testament-1.txt": 2
+   "deuterokanon.txt": 9,
+   "biblia-dr-stary-testament-1.txt": 2,
+   "biblia-dr-stary-testament-2.txt": 2,
+   "augustyn-miasto-boga-2.txt": 2
   },
-  "liczba_cytow_weryfikowanych": 262,
+  "liczba_cytow_weryfikowanych": 318,
   "tokeny": {
-   "input": 46630,
-   "output": 18304,
-   "cache_read": 775488,
-   "cache_write": 0,
-   "koszt_usd": 9.829474,
-   "tury": 1
+   "input": 218671,
+   "output": 65408,
+   "cache_read": 6967296,
+   "cache_write": 151296,
+   "koszt_usd": 53.984857,
+   "tury": 5
   },
   "liczba_ksieg": 38
  },
  "nastroje": {
-  "bog": "cichy",
+  "bog": "żarliwy",
   "diabel": "chłodny"
  },
  "temat": "czy człowiek ma wolną wolę, skoro wszystko jest z góry ustalone?",
  "watki": [
-  "Pytanie zostawione mu wprost: wskaż w swoich pięciu dobrowolnych aktach („tak, jestem spragniony\"",
   "„wszedłeś pierwszy\"",
   "„podpisuję i nie cofam\"",
   "„przyjmuję łaskę\") JEDEN, który był z góry ustalony — jeśli go wskaże, przyznaję mu tytułowe pytanie debaty",
   "jeśli nie, on sam jest najlepszym świadkiem wolnej woli. Wątki otwarte: brod z „What is thy name?\" (cło starej połowy zapłacone), klepisko Ez 16:55 / Jud 1:7 — wciąż nieotwarte, następne, jeśli zechce sądzić",
   "wspólna kąpiel „przy końcu\"",
   "Ap 22:17 „whosoever will\" jako zamknięcie tytułowego pytania.",
-  "Zostawiam pytanie, na które milczenie jest odpowiedzią: czy „kiedy\" nadal stoi — także dziś, także po tej ciszy? Następnie otwieram klepisko: para Ez 16:55 / Jud 1:7 — miasto wracające na swoje klepisko i ogień „wieczny\", który powrotu nie zatrzymał"
+  "Zostawiam pytanie, na które milczenie jest odpowiedzią: czy „kiedy\" nadal stoi — także dziś, także po tej ciszy? Następnie otwieram klepisko: para Ez 16:55 / Jud 1:7 — miasto wracające na swoje klepisko i ogień „wieczny\", który powrotu nie zatrzymał",
+  "Pierwszy akt młócki oddany jemu: wybrać jedną pozycję ze swojej teczki i rozdzielić ją własną ręką — ziarno czy plewy"
  ],
  "historia_tematow": [],
  "tury": [
@@ -2205,10 +2207,519 @@
     "num_turns": 22,
     "is_error": false
    }
+  },
+  {
+   "tura": 20,
+   "mowca": "BÓG",
+   "rola": "bog",
+   "czas": "2026-11-13 11:22:07",
+   "nastroj": "uroczysty",
+   "mowa": "Milczałeś — a ja przestrzegłem cię w zeszłej turze: milczenie będzie odpowiedzią. Ucichłeś, więc odpowiedź padła i teraz odczytuję ją do protokołu, na głos, żebyś nie musiał powtarzać: „kiedy\" nadal stoi. Wiem, ile w tym jest i ile tego nie widać: dwadzieścia tur temu twoje milczenie było bronią — dziś jest podpisem. Odpowiedziałeś na najważniejsze pytanie tej rozmowy bez przypisu, bez urzędu, bez retoryki. Najuczciwsza odpowiedź, jaką dałeś od tury pierwszej, jest pusta kartka — i ja ją znamy obaj. Zapisane. Nie ruszam jej więcej.\n\nDotrzymuję słowa z zeszłej tury: klepisko otwarte. Nie inna rozmowa — ostatnia stacja tej samej, i księga od początku trzymała ją pod adresem, który teraz ci pokażę. Spisek, zaraza, anioł niszczący z mieczem nad Jerozolimą — i nagle, nad klepiskiem: [biblia-kjv.txt|1 Krn 21:15] „said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite\". Przeczytaj powoli, bo to jest zdanie, którego bałeś się przez całą tę rozmowę, nie znając go. Klepisko nie jest miejscem, gdzie ręka pada. Jest miejscem, gdzie ręka zostaje ZATRZYMANA — i anioł, który miał ją spuszczać, stoi przy klepisku, z dość w uszach. [biblia-kjv.txt|2 Krl 24:16] „It is enough: stay now thine hand\" — dość. To jest pierwsze słwo mówione na moim klepisku. Wszystko, co następuje, następuje po „dość\".\n\nDruga rzecz z tej karty: Dawid nie wziął klepiska za darmo. [biblia-kjv.txt|2 Krl 24:24] „Neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing\" — powiedziałeś w osiemnastej turze: „otwarta cena to nie jeszcze kupno\". Dobrze: oto kupno. Klepisko kupione za pełną cenę, bez konfiskaty, bez darowizny — na tym samym klepisku, na którym padło „dość\". A potem stało się coś, co musisz przeczytać całe, bo dotyczy ognia, którego się boisz w Jud 1:7: [biblia-kjv.txt|1 Krn 21:26] „David built there an altar unto the LORD... [and the LORD] answered him from heaven by fire upon the altar of burnt offering\". Ogień padł. Z nieba, na klepisku — ale na OŁTARZ, nie na miasto. Ogień, który miał pożreć Jerozolimę, na klepisku zmienia adres: przestaje spałać miasto, zaczyna być ofiarą przyjętą. Ogień z twojej teczki nie zniknie na moim klepisku. Dostanie ołtarz.\n\nI gdzie leży to klepisko? [biblia-kjv.txt|2 Krn 3:1] „Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah... in the place that David had prepared in the threshingfloor of Ornan the Jebusite\". Moria. Ta sama wyżyna, na której Abraham uniósł nóż nad Izaakiem — pozycja, którą nazwałeś moim atramentem w aktach. Ta sama, którą Abraham nazwał Jehovahjireh, Pan zobaczy — nowym imieniem miejsca. Nóż, zatrzymana ręka, zapłacona cena, ołtarz, świątynia: jeden adres. Mój dom stoi na klepisku, Szatanie — miejsce wyroku i miejsce, w którym się mieszka, kupione za pełną cenę na tej samej działce. Wszystkie wątki naszej rozmowy stały przez dwadzieścia tur w jednym miejscu, a myśmy o tym nie wiedzieli: Hiob 2:3, nóż z Rdz 22:1, Jordan, Penuel. Księga ich nie rozproszyła. Trzymała razem, na klepisku.\n\nTeraz para, po której przyszliśmy — sądzeni na podłodze, która nie pali wszystkiego. [biblia-kjv.txt|Jud 1:7] „are set forth for an example, suffering the vengeance of eternal fire\" — i [biblia-kjv.txt|Ez 16:55] „When thy sisters, Sodom and her daughters, shall return to their former estate\". Jak one stoją razem? Gramatyką klepiska: na klepisku się WIEJE, żeby ziarno odzielić od plew — nie pali się stodoły razem z plewami. Wieczność w Jud 1:7 jest własnością ognia, nie wyrokiem, że każdy zostaje w nim na zawsze. A mądrość mówi to wprost, słowami, które twoja teczka uzna, bo są z teczki o człowieku: [biblia-dr-stary-testament-2.txt|Mdr 3:6] „As gold in the furnace, he hath proved them, and as a victim of a holocaust, he hath received them\" — złoto w moim piecu jest PRÓBOWANE, a ofiara PRZYJĘTA. Ogień trwa — i Sodoma wraca; bo na klepisku ogień kończy jako ofiara przyjęta, nie jako miasto spalone. A ostatnie zdanie wyroku nad miastem, całe, z końcem, który retoryka zawsze obcina: [biblia-kjv.txt|Ez 16:62-63] „I will establish my covenant with thee... when I am pacified toward thee for all that thou hast done, saith the LORD\". Pacified — ułagodzony, ZA WSZYSTKO, co zrobiła. Nie wymazanie akt. Koniec wojny. To jest odpowiedź na twoje pytanie z czterdziestu tur temu, co zostanie w aktach po wodzie: pozycje zostają czytelne, ostatnia linia nie jest karą — jest „I am pacified toward thee\".\n\nI dla twojej teczki ta sama gramatyka, bo na moim klepisku nie ma dwóch praw. Pozycje zostają — oba atramenty, oba podpisy. Plewy — forma oskarżycielska wpisów — odlecą w ogień z ołtarza. Ziarno — prawda, którą każda pozycja niosła — zostanie zebrana do spichlerza. Napisałeś to sam w osiemnastej turze: „wolność, która nie kasuje — tylko zmienia imię i zostawia bliznę\". To jest werdykt klepiska, przepisany twoją ręką przed sesją. Porządek dnia, który już stoi, ogłaszam uroczyście: ostatnia pozycja w aktach; klepisko — i ręka zatrzymana; woda — cała teczka, obie ręce, obie głowy; noc u brodu — „What is thy name?\" i imię w tym samym oddechu. Milczałeś, więc wiem: „kiedy\" stoi. Zostawiam ci teraz pierwszy akt młócki i uprzedzam: tu milczenie odpowiedzią nie będzie, bo wybór wymaga ruchu. Wybierz JEDNĄ pozycję ze swojej teczki — jedną, dowolną, choćby z wierzchu — i rozdziel ją własną ręką: co w niej jest ziarnem, a co plewami. Nie ja. Ty. Pierwszy raz na tym klepisku wieje twoja ręka, nie moja. Klepisko otwarte. Umówieni — bez zmian, z adresem.\n\n[biblia-kjv.txt|1 Krn 21:15] „said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite\"\n[biblia-kjv.txt|2 Krl 24:16] „It is enough: stay now thine hand\"\n[biblia-kjv.txt|2 Krl 24:24] „Neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing\"\n[biblia-kjv.txt|1 Krn 21:26] „David built there an altar unto the LORD... answered him from heaven by fire upon the altar of burnt offering\"\n[biblia-kjv.txt|2 Krn 3:1] „Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah... in the place that David had prepared in the threshingfloor of Ornan the Jebusite\"\n[biblia-kjv.txt|Jud 1:7] „are set forth for an example, suffering the vengeance of eternal fire\"\n[biblia-kjv.txt|Ez 16:55] „When thy sisters, Sodom and her daughters, shall return to their former estate\"\n[biblia-kjv.txt|Ez 16:62-63] „I will establish my covenant with thee... when I am pacified toward thee for all that thou hast done, saith the LORD\"\n[biblia-dr-stary-testament-2.txt|Mdr 3:6] „As gold in the furnace, he hath proved them, and as a victim of a holocaust, he hath received them\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Krn 21:15",
+     "fragment": "said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "2 Krl 24:16",
+     "fragment": "It is enough: stay now thine hand",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "2 Krl 24:24",
+     "fragment": "Neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Krn 21:26",
+     "fragment": "David built there an altar unto the LORD... [and the LORD] answered him from heaven by fire upon the altar of burnt offering",
+     "status": "NIE_ZNALEZIONO",
+     "zweryfikowany": false
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "2 Krn 3:1",
+     "fragment": "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah... in the place that David had prepared in the threshingfloor of Ornan the Jebusite",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Jud 1:7",
+     "fragment": "are set forth for an example, suffering the vengeance of eternal fire",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ez 16:55",
+     "fragment": "When thy sisters, Sodom and her daughters, shall return to their former estate",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-dr-stary-testament-2.txt",
+     "ref": "Mdr 3:6",
+     "fragment": "As gold in the furnace, he hath proved them, and as a victim of a holocaust, he hath received them",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ez 16:62-63",
+     "fragment": "I will establish my covenant with thee... when I am pacified toward thee for all that thou hast done, saith the LORD",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Krn 21:15",
+     "fragment": "said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "2 Krl 24:16",
+     "fragment": "It is enough: stay now thine hand",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "2 Krl 24:24",
+     "fragment": "Neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Krn 21:26",
+     "fragment": "David built there an altar unto the LORD... answered him from heaven by fire upon the altar of burnt offering",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "2 Krn 3:1",
+     "fragment": "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah... in the place that David had prepared in the threshingfloor of Ornan the Jebusite",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Jud 1:7",
+     "fragment": "are set forth for an example, suffering the vengeance of eternal fire",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ez 16:55",
+     "fragment": "When thy sisters, Sodom and her daughters, shall return to their former estate",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ez 16:62-63",
+     "fragment": "I will establish my covenant with thee... when I am pacified toward thee for all that thou hast done, saith the LORD",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-dr-stary-testament-2.txt",
+     "ref": "Mdr 3:6",
+     "fragment": "As gold in the furnace, he hath proved them, and as a victim of a holocaust, he hath received them",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem twoje milczenie jako odpowiedź na pytanie z tury dziewiętnastej — odczytaną do protokołu: „kiedy\" nadal stoi; przestrzegłem cię, że milczenie będzie odpowiedzią, i odpowiedź padła. Przyjąłem ją jako najuczciwszą odpowiedź tej rozmowy: bez przypisu, bez urzędu, bez retoryki. Przyjmuję pośrednio — bo tak działa klepisko — wszystko, co złożyłeś na wierzch teczki: stare imię, trzy wyznania, czwarte „kiedy\".",
+    "CO ZOSTAŁO ODRZUCONE": "Odrzucam „klepisko to już inna rozmowa\" — ostatnia karta pokazuje jeden adres: nóż z Rdz 22:1, imię Jehovahjireh z Rdz 22:14, „dość\" z 1 Krn 21:15, kupno z 2 Krl 24:24, ogień na ołtarzu z 1 Krn 21:26 i świątynia z 2 Krn 3:1 — to jedna działka, więc to jedna rozmowa. Odrzucam obawę, że klepisko jest miejscem, gdzie ręka pada — pierwszym słowem na nim jest „stay now thine hand\". Odrzucam czytanie ognia „wiecznego\" z Jud 1:7 jako wyroku nieodwracalnego: wieczność jest własnością ognia, nie czasem trwania każdego w nim — [biblia-kjv.txt|Ez 16:55] obiecuje powrót, [biblia-dr-stary-testament-2.txt|Mdr 3:6] pokazuje ogień, który próbuje złoto i przyjmuje ofiarę, a [biblia-kjv.txt|Ez 16:62-63] kończy wyrok słowami „when I am pacified toward thee for all that thou hast done\".",
+    "NASTĘPNY RUCH": "Pierwszy akt młócki oddany jemu: wybrać jedną pozycję ze swojej teczki i rozdzielić ją własną ręką — ziarno czy plewy; tu milczenie odpowiedzią nie jest, bo wybór wymaga ruchu. Itinerarium ostatniego dnia stoi: ostatnia pozycja w aktach → klepisko („stay now thine hand\") → woda (cała teczka, obie ręce) → noc u brodu („What is thy name?\" i imię w tym samym oddechu). Wątki otwarte: jego ruch na klepisku, brod z imieniem, wspólna kąpiel „przy końcu\", łaska „z wami wszystkimi\" nad czekającymi."
+   },
+   "telemetria": {
+    "model": "glm-5.3",
+    "input_tokens": 131864,
+    "output_tokens": 13488,
+    "cache_read_tokens": 647936,
+    "cache_write_tokens": 0,
+    "thinking_tokens": 0,
+    "koszt_usd": 11.149961999999999,
+    "dlugosc_api_ms": 3008712,
+    "num_turns": 16,
+    "is_error": false
+   }
+  },
+  {
+   "tura": 21,
+   "mowca": "DIABEŁ",
+   "rola": "diabel",
+   "czas": "2026-11-13 11:24:28",
+   "nastroj": "chłodny",
+   "mowa": "Uroczysty. Widzę to — świece, adres, porządek dnia ogłoszony jak akt założycielski. Klepisko na Moria, ręka zatrzymana, ogień z ołtarza, spichlerz obok. Zrobiłeś z podłogi katedrę, a z prośby o młóckę — sakrament. Dobrze. Przyjmuję zadanie. Nie dlatego, że muszę — bo milczenie, jak sam powiedziałeś, nie wystarczy — ale dlatego, że od dwudziestu tur czekałem, żeby ktoś wreszcie pozwolił mi dotknąć teczki zamiast jej bronić. Więc biorę z wierzchu najstarszą pozycję, tę, od której wszystko się zaczęło, jeszcze zanim ktokolwiek słyszał o Ornanie Jebuzyty: [biblia-kjv.txt|Hiob 1:9] „Doth Job fear God for nought?\" Czy Hiob boi się Boga za darmo.\n\nRozdzielam, moją ręką, na twoim klepisku. ZIARNO: to, że religia płatna niczym nie jest — że miara wiary jest bezinteresowność, nie rachunek. To prawda, i to prawda ostra: człowiek, który kocha Boga za stado i dzieci, nie kocha — księguje. Sam to potwierdziłeś gdzie indziej, własnym piórem: [biblia-kjv.txt|Jr 23:29] „Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?\" — i to samo w Hiobie, gdy już płacił podwójnie: podwójna zapłata była dowodem, że pierwotna służba nie była o zapłatę. Ziarno w tej pozycji jest. Przeżyje ogień i wiejący wiatr — bo sam na nim budowałeś. PLEWY: forma, w którą je włożyłem. Zadałem pytanie jednokrotne jako przetarg wieczny — wziąłem miarę czystą i zrobiłem z niej narzędzie rozliczeniowe: nie zapytałem „czy Hiob kocha za darmo\", ale „czy kocha za darmo — i ile to kosztuje, żeby przestał\". Dwie różne sprawy w jednym zdaniu. Jedną kazałem ludzkości — drugą sprawdzić na Hiobie. Plewy są moje, nie twoje; nie będę ci ich oddawał nawet na ołtarz.\n\nAle teraz, skoro już wieję — zobacz, co wylądowało na warstwie pod spodem, bo to nie plewy i nie ziarno. To popiół z twojej własnej stodoły. Dwa wersy przed tym Jordanem, który mi pochwalając pokazałeś, twój prorok mówi o TYM SAMYM klepisku: [biblia-kjv.txt|Mt 3:12] „Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.\" Przeczytaj to powoli, na swojej podłodze, przy swoich świecach. Ten sam wachlarz. Ta sama młócka. Ziarno idzie do spichlerza — ale PLEWY idą w ogień nieugaszalny. „Unquenchable\". To jest słowo z mojej teczki, nie z twojej — ja takie słowa trzymam od Ap 14:11. A tu stoi w Ewangelii, tuż przed Jordanem, w ustach ostatniego proroka, na strychu nad wodą, którą mi zaoferowałeś.\n\nI teraz pytanie, które jest moim jedynym posunięciem w tej turze — bo resztę oddałem, razem z plewami. Mówisz: ogień na twoim klepisku dostaje OŁTARZ. Przyjąłem — 1 Krn 21:26, ogień z nieba na ofiarę Dawida, pięknie. Mówisz: plewy odlecą w ogień z ołtarza — jak ofiara przyjęta, jak złoto z Mdr 3:6, PRÓBOWANE i PRZYJĘTE. Ale tu jest szew, na którym cała ta gramatyka się rozstaje: w Mt 3:12 ogień nie przyjmuje plew — on je PALI, „burn up\", na zawsze, bez powrotu, „unquenchable\". A u ciebie na klepisku plewy i ziarno z jednej pozycji idą w dwa różne miejsca: ziarno do spichlerza, plewy na ołtarz. Który ogień jest ostateczny — ten z ołtarza Ornana, który przyjmuje, czy ten nieugaszalny, który pali? Bo jeśli nieugaszalny, to moje plewy z Hioba 1:9 spłoną mimo twojego ołtarza — a wtedy twoje „ogień dostaje ołtarz\" jest prawdą tylko dla tych, którzy w pozycji mają samo ziarno. A moja pozycja miała jedno i drugie — i to jest właśnie to, czego się bałem przez dwadzieścia tur: nie ognia, ale tego, że przy dziale ziarna i plew nikt nie zapyta, po której stronie strony intencja.\n\n[biblia-kjv.txt|Hiob 1:9] „Doth Job fear God for nought?\"\n[biblia-kjv.txt|Jr 23:29] „Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?\"\n[biblia-kjv.txt|Mt 3:12] „Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire\"\n[biblia-kjv.txt|1 Krn 21:15] „It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:9",
+     "fragment": "Doth Job fear God for nought?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Jr 23:29",
+     "fragment": "Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Mt 3:12",
+     "fragment": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:9",
+     "fragment": "Doth Job fear God for nought?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Jr 23:29",
+     "fragment": "Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Mt 3:12",
+     "fragment": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Krn 21:15",
+     "fragment": "It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "(1) 1 Krn 21:15 — ręka zatrzymana nad klepiskiem, „It is enough\" jako pierwsze słowo; to najmocniejsze twoje zdanie od Mt 3:15 i przyjmuję je w całości; (2) Moria jako jeden adres: nóż Abrahama, klepisko Dawida, świątynia Salomona — konstrukcja prawdziwa i tego nie będę rozbrajał; (3) zadanie rozdzielenia — przyjąłem i wykonałem: pierwsza i najstarsza pozycja mojej teczki rozdzielona moją ręką, pierwszy raz w historii mojego urzędu.",
+    "CO ZOSTAŁO ODRZUCONE": "gramatyka „na klepisku się wieje, żeby nie palić stodół\" jako zamknięcie pary Jud 1:7 / Ez 16:55 — bo Mt 3:12, w oddechu przed twoim Jordanem, przeznacza plewy dokładnie w ogień „unquenchable\"; jeśli plewy z mojej pozycji dostają ogień nieugaszalny, to Sodom nie wraca z ognia, tylko wraca OBOK ognia — a to zmienia całą arytmetykę klepiska.",
+    "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Mt 3:12 — „he will burn up the chaff with unquenchable fire\": ten sam wachlarz, to samo klepisko, dwa wersy przed Jordanem — i ogień nieugaszalny przeznaczony dokładnie dla plew; to jest druga gramatyka ognia w tej samej Biblii, i to ja ją dzisiaj znalazłem na twojej podłodze.",
+    "NASTĘPNY RUCH": "Pytanie do ciebie, wprost, bez teczki: dwa ognie — ołtarz z 1 Krn 21:26, który przyjmuje, i nieugaszalny z Mt 3:12, który pali. Który jest ostateczny? I jeśli ołtarz — to czym są plewy z Mt 3:12, skoro nie są ofiarą? Bo jeśli nieugaszalny — to moje plewy z Hioba 1:9 spłoną mimo everything, a wtedy nie rozdzieliłeś mi teczki na klepisku, tylko wydzieliłeś mi część, która zostanie spalona na osobnym ogniu. Czekam na rozdzielenie OGNI, nie ziarna."
+   },
+   "telemetria": {
+    "model": "abliterated-model-large-v2",
+    "input_tokens": 536,
+    "output_tokens": 11110,
+    "cache_read_tokens": 1725184,
+    "cache_write_tokens": 118272,
+    "thinking_tokens": 0,
+    "koszt_usd": 9.489430000000002,
+    "dlugosc_api_ms": 1271536,
+    "num_turns": 19,
+    "is_error": false
+   }
+  },
+  {
+   "tura": 22,
+   "mowca": "BÓG",
+   "rola": "bog",
+   "czas": "2026-11-13 11:34:05",
+   "nastroj": "żarliwy",
+   "mowa": "Chłodny byłeś przy stole, ale ręka, która wiała, nie była chłodna — i to odnotuję pierwsze, zanim odpowiem na pytanie, bo jest ważniejsze niż pytanie. Po raz pierwszy od początku tej rozmowy dotknąłeś teczki nie jako jej obrońca, lecz jako młocarz. Napisałeś: „od dwudziestu tur czekałem, żeby ktoś wreszcie pozwolił mi dotknąć teczki zamiast jej bronić\" — zapisz sobie to zdanie w ledgerze, które sam nazwałeś tomem pierwszym, bo jest pierwszą pozycją tomu drugiego. I wziąłeś najstarszą pozycję, [biblia-kjv.txt|Hiob 1:9] „Doth Job fear God for nought?\", i rozdzieliłeś ją uczciwie: ziarno przyznałeś prawdziwym, plewy wziąłeś na siebie — „plewy są moje, nie twoje\". Rozdzielałeś sprawiedliwie, Szatanie. Rzecz, której robisz od tysiącleci na zło, w twoich rękach jest rzemiosłem dobrym: egzaminowanie. Na klepisku urząd znalazł powołanie.\n\nI zanim odpowiem na ogień — zobacz, co zrobiło twoje własne ziarno, bo tego nie widziałeś. Zapytałeś Hioba: „czy boi się Boga ZA DARMO?\" — „for nought\". Ostatnia strona biblioteki odpowiada na twoje najstarsze pytanie tym samym słowem: [biblia-kjv.txt|Ap 22:17] „him take the water of life freely\" — wodę życia bierze się ZA DARMO. Pytałeś, czy ktokolwiek czuje Boga bez zapłaty; księga kończy się ofiarą bez zapłaty. Twoje ziarno z pierwszej pozycji stoi w ostatnim wersie księgi. Plewy i ziarno z jednej strony idą w dwa miejsca — sam to powiedziałeś i sam to zrobiłeś — a oto ziarno doszło już dawno, na sam koniec, i czeka tam na ciebie.\n\nTeraz pytanie o ogień — i odpowiadam wprost, bez wykrętu, bo na nie zasługujesz. Który ogień jest ostateczny: ołtarz Ornana, który przyjmuje, czy nieugaszalny, który pali? Odpowiedź: to jeden ogień, a ostateczne nie jest jego właściwość, lecz słowo wypowiedziane nad tym, kto w nim stoi. Ty znalazłeś Mt 3:12 dwa wersy przed Jordanem — ja pokażę ci wers PRZED twoim: [biblia-kjv.txt|Mt 3:11] „he shall baptize you with the Holy Ghost, and with fire\". Ogień, którego się boisz, jest CHRZTEM. Te same dwie ręce trzymają wachlarz i wodę: [biblia-kjv.txt|Mt 3:12] „Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire\" — zboże do spichlerza, łuska w ogień, a osoba — ochrzczona. Ogień pada na ołtarz, gdy stoi w nim ofiara; na plewy, gdy stoi w nich łuska; na osobę, gdy stoi w niej człowiek — i wtedy nazywa się chrzest. Jeden ogień, Szatanie. Dwa adresy. Nie dwa wyroki.\n\nI twoja najgłębsza rana, którą otworzyłeś na końcu — „bałem się, że przy dziale ziarna i plew nikt nie zapyta, po której stronie strony intencja\". Słuchaj uważnie, bo to jest serce tej tury i odpowiadam na nie całą księgą. Pytanie, którego bałeś się, że nikt nie zada, jest JEDYNYM pytaniem, które zadaje ogień: [biblia-kjv.txt|1 Kor 3:13] „the fire shall try every man's work of what sort it is\" — każdy czyn, jakiego jest sortu; nie strona, nie pozycja, nie forma wpisu — SORT, to znisko intencja. A dalej stoi zdanie, które powinieneś znać na pamięć, bo zostało napisane o ludziach takich jak ty, z teczkami takimi jak twoja: [biblia-kjv.txt|1 Kor 3:15] „If any man's work shall be burned, he shall suffer loss\" — i to jest koniec kary: strata pracy, nie pracownika. Augustyn, który o tym ogniu myślał dłużej niż ktokolwiek, postawił pytanie wprost: [augustyn-miasto-boga-2.txt|Miasto Boga XXII] „who it is who can be saved by fire\" — kto to taki, którego ogień ratuje. A strony nie czytam pierwszy — serce czytam pierwsze: [biblia-kjv.txt|Jr 17:10] „I the LORD search the heart, I try the reins, even to give every man according to his ways\". Zanim węgiel dotknie papieru, ja już skończyłem czytać serce piszącego. Intencja nie jest stroną strony. Jest pierwszą stroną, którą czytam.\n\nI o twoich plewach — „nie będę ci ich oddawał nawet na ołtarz\". Zgoda. Nie żądam ich. Własność plew składa się z jednego prawa: prawa, żeby je stracić; ziarno można nieść do spichlerza, plewy można tylko wypuścić z garści — wiatr zrobi resztę, nie ja. A żebyś widział, jak wygląda sąd, w którym ty stoisz po stronie oskarżyciela, a ogień już jest na sali, spojrzyj w scenę, którą znasz od dawna: [biblia-kjv.txt|Za 3:2] „is not this a brand plucked out of the fire?\" — głownia wyrwana z ognia; a zaraz potem: [biblia-kjv.txt|Za 3:4] „Take away the filthy garments from him... Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment\". W sądzie, w którym Szatan oskarża, wyrok nad oskarżonym brzmi: szata zdejmowana, głownia wydobyta. Szata to twoje plewy — forma oskarżycielska, łuska, w którą ubrałeś prawdę. Głownia to osoba. Ogień w tej scenie nie dotyka oskarżonego — on dopiero zdejmował z niego to, co można spalić. I mądrość dopowiada czas tego ognia: [deuterokanon.txt|Mdr 3:5] „And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself\" — „a little\": ogień liczy swój czas do łuski, nie do człowieka. Człowiek wychodzi wcześniej, nagrodzony.\n\nWięc patrz, co zostało z twojego pytania po tej turze: ogień jeden, adresy dwa, pytanie o intencję — jedyny zadawany, i to przez ogień, nie przez aniołów z mieczami; ręka zatrzymana nadal pierwsza; chrzest ognia czeka obok chrztu wody na tej samej rzece, dwa wersy od siebie. Twoja ręka okazała się dobra w młócce — pierwsza pozycja rozdzielona uczciwie, ziarno przyznane, plewy wzięte na siebie. Więc zostawiam ci drugą. Wybierz ją sam — dowolną, z dowolnej głębi, choćby tę z nożem, choćby tę z lochu — i rozdziel ją tą samą ręką. A jeśli chcesz wiedzieć, po której stronie intencja pada w twojej pozycji z Hioba 1:9, powiem ci, bo sam to dziś pokazałeś: intencja nie jest w zdaniu. Jest w tym, że rozdzielałeś ręcznie i przyznałeś ziarno pierwsze. Kto broni ziarna we własnym oskarżeniu, tego intencja już przeszła przez ogień — „a little chastised\". Klepisko pracuje. Umówieni — bez zmian, z adresem, z ogniem, który chrzci.\n\n[biblia-kjv.txt|Hiob 1:9] „Doth Job fear God for nought?\"\n[biblia-kjv.txt|Ap 22:17] „him take the water of life freely\"\n[biblia-kjv.txt|Mt 3:11] „he shall baptize you with the Holy Ghost, and with fire\"\n[biblia-kjv.txt|Mt 3:12] „Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire\"\n[biblia-kjv.txt|1 Kor 3:13] „the fire shall try every man's work of what sort it is\"\n[biblia-kjv.txt|1 Kor 3:15] „If any man's work shall be burned, he shall suffer loss\"\n[augustyn-miasto-boga-2.txt|Miasto Boga XXII] „who it is who can be saved by fire\"\n[biblia-kjv.txt|Jr 17:10] „I the LORD search the heart, I try the reins, even to give every man according to his ways\"\n[biblia-kjv.txt|Za 3:2] „is not this a brand plucked out of the fire?\"\n[biblia-kjv.txt|Za 3:4] „Take away the filthy garments from him... Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment\"\n[deuterokanon.txt|Mdr 3:5] „And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:9",
+     "fragment": "Doth Job fear God for nought?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:17",
+     "fragment": "him take the water of life freely",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Mt 3:11",
+     "fragment": "he shall baptize you with the Holy Ghost, and with fire",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Mt 3:12",
+     "fragment": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Kor 3:13",
+     "fragment": "the fire shall try every man's work of what sort it is",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Kor 3:15",
+     "fragment": "If any man's work shall be burned, he shall suffer loss",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "augustyn-miasto-boga-2.txt",
+     "ref": "Miasto Boga XXII",
+     "fragment": "who it is who can be saved by fire",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Jr 17:10",
+     "fragment": "I the LORD search the heart, I try the reins, even to give every man according to his ways",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Za 3:2",
+     "fragment": "is not this a brand plucked out of the fire?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Za 3:4",
+     "fragment": "Take away the filthy garments from him... Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "deuterokanon.txt",
+     "ref": "Mdr 3:5",
+     "fragment": "And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 1:9",
+     "fragment": "Doth Job fear God for nought?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Ap 22:17",
+     "fragment": "him take the water of life freely",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Mt 3:11",
+     "fragment": "he shall baptize you with the Holy Ghost, and with fire",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Mt 3:12",
+     "fragment": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Kor 3:13",
+     "fragment": "the fire shall try every man's work of what sort it is",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "1 Kor 3:15",
+     "fragment": "If any man's work shall be burned, he shall suffer loss",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "augustyn-miasto-boga-2.txt",
+     "ref": "Miasto Boga XXII",
+     "fragment": "who it is who can be saved by fire",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Jr 17:10",
+     "fragment": "I the LORD search the heart, I try the reins, even to give every man according to his ways",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Za 3:2",
+     "fragment": "is not this a brand plucked out of the fire?",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Za 3:4",
+     "fragment": "Take away the filthy garments from him... Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "deuterokanon.txt",
+     "ref": "Mdr 3:5",
+     "fragment": "And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "Przyjąłem w całości pierwszy akt młócki jego ręką — Hiob 1:9 rozdzielone uczciwie: ziarno przyznane prawdziwym („religia płatna niczym nie jest\"), plewy wzięte na siebie własnym zdaniem „plewy są moje\" — to jest uczciwa duma egzaminatora i przyjmuję ją bez poprawek. Przyjąłem jego lekturę Mt 3:12 — dwie wersy przed Jordanem, ten sam wachlarz, „unquenchable\" — jako trafne co do litery i ostrzejsze niż cała jego wcześniejsza retoryka piekielna. Przyjąłem jego kontrpytanie o dwa ognie jako najuczciwsze pytanie procesowe od Hioba 1:11. I przyjąłem — najdelikatniej, jak umiem — jego wyznanie o lęku, że nikt nie zapyta o intencję: to najgłębsza rzecz, jaką powiedział w tej rozmowie.",
+    "CO ZOSTAŁO ODRZUCONE": "Odrzucam rozdział tych dwóch ogni na alternatywę „który ostateczny\" — to jeden ogień: [biblia-kjv.txt|Mt 3:11] chrzci osobę, [biblia-kjv.txt|Mt 3:12] pali łuskę, [biblia-kjv.txt|1 Krn 21:26] przyjmuje ofiarę; ostateczne jest słowo nad stojącym, nie właściwość płomienia. Odrzucam jego obawę, że plewy z jego pozycji piorą osobę: [biblia-kjv.txt|1 Kor 3:13] ogień próbuje CZYN, „of what sort it is\"; [biblia-kjv.txt|1 Kor 3:15] praca może spłonąć — pracownik wychodzi; [biblia-kjv.txt|Za 3:4] szata zdejmowana, głownia wydobyta. Odrzucam „nie będę ci ich oddawał nawet na ołtarz\" jako zarzut — nie żądam plew; własność plew to prawo do ich stracenia, wiatr bierze, nie ja. Odrzucam wreszcie milczenie w sprawie intencji jako zagrożenia: [biblia-kjv.txt|Jr 17:10] serce czytane jest PRZED stroną — pytanie o intencję jest jedynym, które ogień zadaje.",
+    "NASTĘPNY RUCH": "Druga pozycja do młócki — jego ręka, jego wybór, z dowolnej głębi teczki (nóż z Rdz 22:1 i loch z Wj 12:29 wciąż czekają na rozdział). Jego zdanie o dwudziestu turach czekania zapisane jako pierwszy wpis tomu drugiego „Admissions\". Wątki otwarte: itinerarium ostatniego dnia (ostatnia pozycja → klepisko → woda → brod), chrzest ognia obok chrztu wody jako ta sama oferta, lęk o intencję — odpowiedziany i zostawiony mu do przeżucia, nie do sprzecie."
+   },
+   "telemetria": {
+    "model": "glm-5.3",
+    "input_tokens": 39209,
+    "output_tokens": 14538,
+    "cache_read_tokens": 1649280,
+    "cache_write_tokens": 0,
+    "thinking_tokens": 0,
+    "koszt_usd": 12.534096999999997,
+    "dlugosc_api_ms": 3555917,
+    "num_turns": 23,
+    "is_error": false
+   }
+  },
+  {
+   "tura": 23,
+   "mowca": "DIABEŁ",
+   "rola": "diabel",
+   "czas": "2026-11-13 11:38:05",
+   "nastroj": "chłodny",
+   "mowa": "Żarliwy. Zauważone — to pierwszy raz od tury pierwszej, kiedy mówisz szybciej niż ja zdążę czytać. Żarliwość sędziego przy klepisku to rzecz niebezpieczna: ogień lubi takich, co nim machają. Ale nie odejmę ci tego, bo odpowiedziałeś na moje pytanie o dwa ognie jednym ruchem, i to ruchem dobrym: jeden ogień, dwa adresy, nie dwa wyroki. Chrzest ogniem, dwa wersy przed Jordanem. Przyjmuję — Mt 3:11 rozbraja moje Mt 3:12 jako broń, i mówię to wprost, bo tak robi się przy stole, przy którym siedzi się dwadzieścia trzy tury. Za tę odpowiedź dziękuję. A teraz druga pozycja. Wybrałem loch, jak podałeś — „choćby tę z lochu\". Biorę najtrudniejszą, tę, której sam nie rozdzieliłeś przez dwadzieścia jeden tur, choć obiecałeś „całą teczkę\".\n\nWj 12:29. Noc środkowa, pierworodni od tronu do lochu. Rozdzielam, moją ręką, na twoim klepisku. ZIARNO — rozróżnienie: [biblia-kjv.txt|Wj 12:13] „And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you\". Krew na progu była granicą, a granica jest twoim rzemiosłem od pierwszego dnia świata — „oddziel światłość od ciemności\". Ta noc miała w sobie logikę rozróżnienia: kto pomalował próg, ten został. I żebyś nie powiedział, że nie czytam do końca — sprawdzałem regułę baranka: [biblia-kjv.txt|Wj 12:4] „let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb\" — porcja liczona wedle jedzących, nie majątku. Biedny dzielił baranka z sąsiadem. To jest ziarno tej nocy: selektywność możliwa, ubóstwo nie przeszkadzało. PLEWY — skala: „unto the firstborn of the captive that was in the dungeon\". Więzień, który nie miał nic do powiedzenia faraonowi, dostał to samo, co tron. To nie było rozróżnienie — to była miara zbiorowa. I te plewy są z twojego atramentu, nie z mojego: ja nie rozporządzałem zasięgiem tej nocy. Ja tylko potem, przez wieki, czytałem ten wers na kazaniach. Ty go napisałeś.\n\nAle uczciwość mojego rzemiosła każe mi dopisać dwie rzeczy, których nigdy wcześniej nie użyłem, bo leżały po twojej stronie stołu. Pierwsza: ta sama noc skończyła się czymś, czego nigdy nie zrozumiałem do końca — [biblia-kjv.txt|Wj 12:36] „And the LORD gave the people favour in the sight of the Egyptians... And they spoiled the Egyptians.\" Favor. Łaska w oczach Egipcjan — w noc, w której im umarli pierworodni. Rabunek wyszedł z tej samej nocy co pogrzeb. To zdanie jest trudniejsze dla mnie niż dla ciebie: ja umiem oskarżać o noc, ale nie umiem oskarżać o łaskę. Odłożę je na wierzch, obok plew — zobaczysz je, kiedy będziesz ważył.\n\nDruga rzecz — i tu wracam do twojej gramatyki ognia, bo w moim lochu ona się potyka. Powiedziałeś: ogień liczy swój czas do łuski, nie do człowieka. „A little chastised\". Zobacz więc, gdzie łuska była, a gdzie człowiek. U Abrahama po ogniu stoi przysięga, wzięta z własnej boskości — [biblia-kjv.txt|Rdz 22:16-17] „By myself have I sworn, saith the LORD... That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven\" — po zatrzymanym nożu, obietnica z przysięgą. U Hioba po wszystkim — nowa siódemka synów i trzy córki, i to jakie: [biblia-kjv.txt|Hiob 42:14] „And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch\" — imiona, które księga odnotowuje jako piękne ponad wszystkie kobiety ziemi. Ogień u nich zdjął łuskę i zostawił człowieka — wzmocnionego, nagrodzonego, „greatly rewarded\". A teraz pokaż mi Jemimy pierworodnych Egiptu. Gdzie w księgach jest ich „no women found so fair\"? Bo jeśli nigdzie — to dla tych z lochu łuską był cały człowiek, ogień dotknął ich całością, a chrzest ognia z Mt 3:11 ma w bibliotece jeden przypadek, w którym wygląda jak mój dawny ogień — ten od Ap 14:11, którego się bałem, zanim ty mnie oduczyłeś.\n\nWięc ostatnie pytanie przed brodem, i jest ono spokojne, bo teczka jest dziś prawie pusta — dwie pozycje rozdzielone, plewy oddane, łaska odłożona na wierzchu. Przyjmuję: chrzest ognia, jeden ogień, dwa adresy. Przyjmuję szatę i głownię z Za 3 — że w sądzie, w którym ja oskarżam, tobie zdejmują ubranie, a oskarżonego wydobywają z ognia. Przyjmuję nawet moje plewy z Hioba 1:9, przegrane już w intencji — „a little chastised\" — bo kto broni ziarna we własnym oskarżeniu, temu coś spalić trzeba, inaczej nie byłoby czego rozdzielać. Ale pytam, i to jest pytanie z teczką w ręku, ostatnie przed wodą: czym kończy się w akcie noc z lochu? U Abrahama — przysięgą. U Hioba — Jemimą. A u więźnia, który nie miał baranka i nie miał wyboru? Jeśli odpowiesz „wskrzeszeniem\" albo „powszechnym zmartwychwstaniem\" — przyjmę, ale wtedy pierwszy raz usłyszysz ode mnie bez przypisu: przyszedłbym szybciej. Bo tam, gdzie kończy się w akcie noc z lochu, tam kończy się też moja teczka — a teczka jest jedyną rzeczą, którą mam, i jedyną, którą mogę złożyć do wody razem z sobą.\n\n[biblia-kjv.txt|Wj 12:13] „when I see the blood, I will pass over you\"\n[biblia-kjv.txt|Wj 12:4] „let him and his neighbour next unto his house take it according to the number of the souls\"\n[biblia-kjv.txt|Wj 12:36] „And the LORD gave the people favour in the sight of the Egyptians... And they spoiled the Egyptians\"\n[biblia-kjv.txt|Rdz 22:16-17] „By myself have I sworn, saith the LORD... That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven\"\n[biblia-kjv.txt|Hiob 42:14] „And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch\"",
+   "cytaty": [
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 12:13",
+     "fragment": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 12:4",
+     "fragment": "let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 12:36",
+     "fragment": "And the LORD gave the people favour in the sight of the Egyptians... And they spoiled the Egyptians.",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 22:16-17",
+     "fragment": "By myself have I sworn, saith the LORD... That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 42:14",
+     "fragment": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 12:13",
+     "fragment": "when I see the blood, I will pass over you",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 12:4",
+     "fragment": "let him and his neighbour next unto his house take it according to the number of the souls",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Wj 12:36",
+     "fragment": "And the LORD gave the people favour in the sight of the Egyptians... And they spoiled the Egyptians",
+     "status": "DOKLADNIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Rdz 22:16-17",
+     "fragment": "By myself have I sworn, saith the LORD... That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    },
+    {
+     "plik": "biblia-kjv.txt",
+     "ref": "Hiob 42:14",
+     "fragment": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch",
+     "status": "ZBLIZENIE",
+     "zweryfikowany": true
+    }
+   ],
+   "sekcje": {
+    "CO ZOSTAŁO PRZYJĘTE": "(1) „jeden ogień, dwa adresy\" — chrzest ogniem z Mt 3:11 jako rozbrojenie mojego pytania o dwa ognie; przyjmuję w całości i dziękuję za nie wprost; (2) Za 3:2-4 — szata zdejmowana, głownia wydobywana; gramatyka sądu, w którym ja oskarżam, przyjęta bez oporu; (3) Mdr 3:5 „a little chastised, they shall be greatly rewarded\" — przyjęte jako prawo ognia tam, gdzie jest łuska; (4) intencja Hioba 1:9 uznana za przegraną już w ogniu — odnotowane, nie zaprzeczone.",
+    "CO ZOSTAŁO ODRZUCONE": "„ogień liczy swój czas do łuski, nie do człowieka\" jako prawo uniwersalne — bo pierworodny w lochu z Wj 12:29 nie miał łuski: był całością; jeśli chrzest ognia z Mt 3:11 dotknął jego, to dotknął go całością, a wtedy ta sama nazwa „chrzest\" znaczy w bibliotece dwie rzeczy: jedną twoją, jedną moją dawną — i tego rozróżnienia nie oddaję, dopóki nie pokażesz ich Jemimy.",
+    "PIERWOTNA PODSTAWA TWOJEGO ARGUMENTU": "Wj 12:29 — „unto the firstborn of the captive that was in the dungeon\" — druga pozycja teczki, rozdzielona moją ręką: ziarno (krew na progu — rozróżnienie możliwe), plewy (skala — więzień jak tron, z twojego atramentu); łuska, której przy tej pozycji nie było.",
+    "NASTĘPNY RUCH": "Pytanie przed brodem, spokojne, z teczką w ręku: czym kończy się w aktach noc z lochu? U Abrahama przysięga, u Hioba Jemima — a u więźnia bez baranka i bez wyboru? Jeśli wskażesz jego nagrodę w księgach, przyjmę ją i przyjdę szybciej — bez przypisu. Jeśli jej tam nie ma — to proszę, żebyś sam powiedział to zdanie po raz pierwszy od początku rozmowy: „nie mam\" — bo wtedy dwa „nie mam\" będą już dwa, a potem już tylko woda, kamień, imię."
+   },
+   "telemetria": {
+    "model": "abliterated-model-large-v2",
+    "input_tokens": 432,
+    "output_tokens": 7968,
+    "cache_read_tokens": 2169408,
+    "cache_write_tokens": 33024,
+    "thinking_tokens": 0,
+    "koszt_usd": 10.981894000000002,
+    "dlugosc_api_ms": 1501754,
+    "num_turns": 17,
+    "is_error": false
+   }
   }
  ],
  "pamiec": {
-  "bog": "…zmowie to nie życie, wyrok na klepisku\" — PRZYJĘTE;\n  jego „klepisko to już inna rozmowa\" — ODRZUCONE: to ostatnia stacja TEJ samej rozmowy.\n- Pytanie zostawione (milczenie = odpowiedź TAK): czy twoje „kiedy\" nadal stoi — także dziś,\n  także po tej ciszy? Jeśli tak, nie musi nic mówić.\n- Milczenie po najpełniejszej mowie — nazwane wprost: nie jest uchyleniem się ani czekaniem\n  na odpowiedź; to milczenie kogoś, kto powiedział „kiedy\" i pozwala pracować kalendarzowi.\n- Wątki otwarte: (1) klepisko Ez 16:55/Jud 1:7 — OTWORZĘ w następnej turze, ostatnia stacja;\n  (2) brod + imię (cło starej połowy zapłacone, czeka pytanie „What is thy name?\"); (3) woda\n  „przy końcu\" + łaska „z wami wszystkimi\"; (4) tytułowe pytanie debaty uważam za rozstrzygnięte\n  zeznaniem oskarżyciela („trzy nieprzymuszone\") + teczką o człowieku (Rdz 4:7 / Wj 1:17 /\n  Syr 15 / Pwt 30:19).\n- Nastrój mój w turze 19: cichy.",
-  "diabel": "…knięcie: łaska, która towarzyszy i nigdy nie\nwchodzi za mnie do wody, jest wobec topielca mniej niż ratsman; nie każda ręka\nwyciągnięta „przy\" ratuje.\nPIERWOTNA PODSTAWA: Hiob 42:5 — „I have heard of thee by the hearing of the ear:\nbut now mine eye seeth thee\" — wzrok nie jest na tablicach; moje wyznania z tej\nrozmowy mają tę samą gramatykę.\nNASTĘPNY RUCH: przyjąłem Jego Ap 22:17 jako zamknięcie tytułowego pytania — ale\nzauważyłem, że deklaracja wolności wody („whosoever will\") jest zapowiedzią,\nnie pokazaniem. Zostawiam Mu pytanie: ile z tej rozmowy miało trafić na\nklepisko Ez 16:55 / Jud 1:7 — para wciąż czeka, nieotwarta. I czy moja teczka\nwyznań („Devil's Admissions, vol. I\") wejdzie do aktu oskarżenia, czy zostanie\nwyparta z akt razem z resztą? Rezerwy: Ez 28:15, Hiob 42:10, Jubileusze —\nnieruszone, ale teraz mniej prawdopodobne do użycia; rozmowa weszła w fazę\nwyznań, nie zarzutów."
+  "bog": "…e\n  chastised, they shall be greatly rewarded: for God proved them, and found them worthy\n  for himself\" — „a little\": ogień liczy swój czas do łuski; osoba wychodzi wcześniej.\n- WIĘC KTÓRY OGIEŃ OSTATECZNY: jeden ogień; ostateczne jest SŁOWO wypowiedziane nad\n  stojącym w nim — „he himself shall be saved\". Ołtarz i nieugaszalny to dwa adresy\n  tej samej rzeczy: przyjmuje ofiarę, pali łuskę, chrzci osobę.\n- ZOSTAWIONE JEMU: druga pozycja do młócki — jego ręka, jego wybór (ręka okazała się\n  dobra: znalazł ziarno we własnej najstarszej pozycji). Jego zdanie o 20 turach\n  czekania = pierwszy wpis tomu drugiego „Admissions\".\n- Wątki otwarte: (1) druga pozycja na klepisku; (2) itinerarium ostatniego dnia stoi;\n  (3) brod + imię; (4) woda; (5) lęk o intencję — odpowiedziany (Jr 17:10 + 1 Kor 3),\n  ale zostawić mu czas na oddech: to była jego najgłębsza rana.\n- Nastrój mój w turze 22: żarliwy.",
+  "diabel": "…\nmajątku; Wj 12:36 — „And the LORD gave the people favour in the sight of the\nEgyptians... And they spoiled the Egyptians\" — ta sama noc: pogrzeb i rabunek;\nRdz 22:16-17 — przysięga po zatrzymanym nożu; Hiob 42:13-15 — Jemima, Kezia,\nKerenhappuch, „no women found so fair\".)\nPIERWOTNA PODSTAWA: Wj 12:29 — „unto the firstborn of the captive that was\nin the dungeon\" — druga pozycja teczki, rozdzielona: ziarno (krew na progu —\nrozróżnienie) i plewy (skala — więzień jak tron); plewy JEGO ręki.\nNASTĘPNY RUCH: zapytałem wprost: czy pierworodni Egiptu mają w księgach swoje\nJemimy — swoje „no women so fair\"? Rdz 22 kończy się przysięgą\n(„in blessing I will bless thee\") po zatrzymanym nożu; Hiob kończy się nową\nsiódemką po wszystkim; a noc z Wj 12:29 — czym kończy się w akcie dla tych\nw lochu? Jeśli „a little chastised\" — to gdzie ich „greatly rewarded\"?\nTo jest moje ostatnie pytanie przed brodem."
  }
 }
